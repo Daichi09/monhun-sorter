@@ -1,0 +1,175 @@
+ID	Name	Type	SubType	Rarity	CarryLimit	Unknown	SortOrder	Unknown2	IconID	IconColourID	SellPrice	BuyPrice	Bowgun	Bow	Mushroomancer	Misc Notes	NewSortOrder	NewBuyPrice	NewSellPrice
+2	Mega Potion	0	0	1	10	10	2	72	5	2	16	165				Priority - Heal	1		
+3	Max Potion	0	0	2	2	2	3	8	62	4	210	2138				Priority - Heal	2		
+4	Ancient Potion	0	0	4	1	1	4	72	62	4	345	3454				Priority - Heal	3		
+6	Herbal Medicine	0	0	1	5	5	6	8	62	3	25	250				Priority - Poison	4		
+7	Nulberry	0	0	1	10	10	7	12	21	3	120	1200				Priority - Debuff	5		
+8	Energy Drink	0	0	1	10	10	8	8	5	9	6	60				Priority - Stamina	6		
+9	Ration	0	0	0	10	10	9	12	7	11	3	30				Priority - Stamina	7		
+18	Dash Juice	0	0	1	5	5	19	8	5	4	29	293				Priority - Stamina	8		
+64	Farcaster	0	0	2	1	1	70	8	24	2	30	150				Priority - Exit	9		
+15	Mega Nutrients	0	0	2	5	5	16	72	5	6	92	920				Priority - HP	10		
+20	Might Seed	0	0	1	10	10	21	12	21	1	140	280				Priority - Buff ATK	11		
+24	Adamant Seed	0	0	1	10	10	25	12	21	7	110	220				Priority - Buff DEF	12		
+23	Might Pill	0	0	3	5	5	24	8	62	1	280	2831				Priority - Buff ATK	13		
+27	Adamant Pill	0	0	3	5	5	28	8	62	7	260	2696				Priority - Buff DEF	14		
+22	Mega Demondrug	0	0	4	5	5	23	72	5	1	283	2831				Priority - Buff ATK	15		
+26	Mega Armorskin	0	0	4	5	5	27	72	5	7	269	2696				Priority - Buff DEF	16		
+105	Whetfish Fin+	0	0	3	5	5	5068	72	43	4	45	135				Priority - Sharpen	17		
+106	Sushifish Scale	0	0	1	10	10	5069	12	43	7	45	90				Priority - Heal Bleed	18		
+107	Great Sushifish Scale	0	0	3	5	5	5070	76	43	7	45	90				Priority - Heal Bleed	19		
+28	Lifepowder	0	0	3	3	3	29	8	13	24	190	480				Priority - Heal AoE	20		
+13	Cool Drink	0	0	0	5	5	13	8	5	0	30	300					21		
+1000	Hot Drink	0	0	0	5	25	14	8	5	14	25	250					22		
+59	Tranq Bomb	0	0	2	8	8	64	8	24	1	35	350					23		
+60	Flash Pod	0	0	1	3	3	65	8	77	4	57	572					24		
+50	Flashbug	0	0	1	10	10	55	0	23	4	48	96				Flash Pods	25		
+61	Screamer Pod	0	0	1	3	3	66	8	77	10	45	450					26		
+57	Screamer Sac	0	0	1	10	10	62	0	13	10	15	150				Screamer Pod	27		
+84	Dung Pod	0	0	1	10	10	67	8	77	11	20	120					28		
+62	Smoke Bomb	0	0	1	3	3	68	8	24	0	44	100					29		
+63	Poison Smoke Bomb	0	0	1	5	5	69	8	24	5	60	600					30		
+74	Large Barrel	0	0	1	5	5	80	0	14	25	21	210				Barrel Bomb	31		
+75	Large Barrel Bomb	0	0	2	2	2	81	8	10	25	52	518				Barrel Bomb	32		
+76	Mega Barrel Bomb	0	0	3	2	2	82	72	10	25	80	800				Barrel Bomb	33		
+45	Devil's Blight	0	0	1	10	5	49	0	1	14	60	600			Mushroomancer Dash Juice/Immunizer	Barrel Bomb	34		
+109	Great Gunpowderfish Scale	0	0	3	5	5	5072	64	43	10	150	300				Barrel Bomb	35		
+78	Net	0	0	1	10	10	84	0	20	13	54	108				Pitfall Trap	36		
+79	Trap Tool	0	0	2	2	2	85	0	11	0	20	200				Traps	37		
+80	Pitfall Trap	0	0	2	1	1	86	8	12	13	200	400				Traps	38		
+81	Shock Trap	0	0	2	1	1	87	8	12	9	160	320				Traps	39		
+90	Powercharm	0	0	4	1	1	95	0	13	1	3600	36000				Charms	40		
+91	Powertalon	0	0	4	1	1	96	0	45	1	6840	68400				Charms	41		
+92	Armorcharm	0	0	4	1	1	97	0	13	7	2400	24000				Charms	42		
+93	Armortalon	0	0	4	1	1	98	0	45	7	5040	50400				Charms	43		
+102	Gunpowder Level 2	0	0	1	80	80	107	512	13	10	1	16	Gunpowder Level 2				44		
+100	Flamenut	0	0	1	80	80	105	0	21	10	12	60	Gunpowder Level 2				45		
+103	Gunpowder Level 3	0	0	1	80	80	108	1024	13	10	3	30	Gunpowder Level 3				46		
+101	Blazenut	0	0	1	60	60	106	0	21	10	12	60	Gunpowder Level 3				47		
+98	Latchberry	0	0	0	99	99	103	0	16	3	4	40	Pierce Ammo				48		
+94	Needleberry	0	0	0	99	99	99	0	16	13	1	22	Spread Ammo				49		
+95	Blastnut	0	0	0	30	30	100	0	16	7	4	40	Sticky Ammo				50		
+99	Bomberry	0	0	1	5	10	104	0	16	14	12	60	Cluster Bomb (HBG Only)				51		
+35	Fire Herb	0	0	1	20	20	37	0	4	25	4	44	Flaming Ammo	Blast Coating			52		
+36	Flowfern	0	0	0	20	20	38	0	4	15	4	44	Water Ammo				53		
+52	Thunderbug	0	0	3	10	10	57	0	23	9	80	300	Thunder Ammo			Shock Trap	54		
+37	Snow Herb	0	0	1	20	20	39	0	4	0	6	64	Freeze Ammo				55		
+41	Dragonfell Berry	0	0	3	10	10	45	0	21	14	78	780	Dragon Ammo				56		
+47	Toadstool	0	0	1	10	10	51	0	1	5	8	75	Poison Ammo	Poison Coating	Mushroomancer Immunizer		57		
+46	Parashroom	0	0	2	10	10	50	0	1	9	15	150	Paralysis Ammo	Paralysis Coating	Mushroomancer Armorskin		58		
+38	Sleep Herb	0	0	0	10	10	40	0	4	6	5	50	Sleep Ammo	Sleep Coating			59		
+48	Exciteshroom	0	0	2	10	10	52	0	1	13	18	180	Exhaust Ammo		Mushroomancer Random		60		
+58	Catalyst	0	0	1	5	5	63	0	13	13	48	480	"Ammo Upgrade (Poison, Paralysis, Sleep, Exhaust, Recover)"			"Immunizer, Dash Juice, Demondrug, Armorskin"	61		
+96	Dragonstrike Nut	0	0	1	5	5	101	0	16	11	12	60	Wyvern Ammo				62		
+97	Slashberry	0	0	0	30	30	102	0	16	0	4	40	Slicing Ammo				63		
+42	Blue Mushroom	0	0	1	10	10	46	0	1	3	2	24			Mushroomancer Small potion	Nutrients	64		
+43	Mandragora	0	0	2	10	5	47	0	1	7	40	400			Mushroomancer Max Potion	Max Potion	65		
+44	Nitroshroom	0	0	1	20	20	48	0	1	1	6	60		Power Coating	Mushroomancer Demondrug		66		
+																			
+1	Potion	0	0	0	10	10	1	8	5	2	8	66					67		
+5	Antidote	0	0	0	10	10	5	8	5	3	6	60					68		
+10	Rare Steak	0	0	0	10	10	10	12	7	24	3	30					69		
+11	Well-done Steak	0	0	1	10	10	11	12	7	7	48	96					70		
+12	Burnt Meat	0	0	0	10	10	12	12	7	10	1	10					71		
+14	Nutrients	0	0	1	5	5	15	8	5	6	25	760					72		
+16	Immunizer	0	0	2	10	10	17	8	5	24	92	923					73		
+17	Astera Jerky	0	0	1	5	5	18	12	7	8	10	98				Heal Bleed	74		
+21	Demondrug	0	0	3	5	5	22	8	5	1	67	668				Buff ATK	75		
+25	Armorskin	0	0	3	5	5	26	8	5	7	58	578				Buff DEF	76		
+1008	Dust of Life	0	0	5	2	10	30	72	13	24	690	6900					77		
+29	Herbal Powder	0	0	3	3	3	31	8	13	3	315	6300					78		
+30	Demon Powder	0	0	3	3	3	32	8	13	1	315	6300					79		
+31	Hardshell Powder	0	0	3	3	3	33	8	13	7	315	6300					80		
+32	Honey	0	0	1	10	10	34	0	3	7	45	90				"Mega Potion, First-aid Med+, Mega Nutrients, Catalyst, Energy Drink"	81		
+33	Herb	0	0	0	10	10	35	0	4	2	2	20				Potion	82		
+34	Antidote Herb	0	0	0	10	10	36	0	4	3	2	20					83		
+39	Ivy	0	0	0	10	10	41	0	4	13	8	75				Smoke Bomb	84		
+1006	Hot Pepper	0	0	0	10	10	42	0	4	14	14	140				Hot Drink	85		
+1007	Gloamgrass Bud	0	0	3	4	10	43	0	4	24	40	400					86		
+40	Smokenut	0	0	0	10	10	44	0	21	0	4	44				"Net, Smoke Bomb"	87		
+870	Chillshroom	0	0	2	10	10	53	0	1	0	18	180				Cool Drink	88		
+49	Bitterbug	0	0	0	10	10	54	0	23	3	2	20				"Nutrients, Catalyst"	89		
+51	Godbug	0	0	3	10	10	56	0	23	0	120	320					90		
+54	Kelbi Horn	0	0	3	99	99	59	0	45	2	52	240					91		
+55	Dash Extract	0	0	3	20	20	60	0	5	4	56	560					92		
+56	Nourishing Extract	0	0	3	20	20	61	0	5	0	122	1220					93		
+65	Raw Meat	0	0	0	10	10	71	8	7	1	5	50					94		
+66	Poisoned Meat	0	0	1	10	10	72	8	7	5	19	188				Trap	95		
+67	Tinged Meat	0	0	1	10	10	73	8	7	9	30	300				Trap	96		
+68	Drugged Meat	0	0	1	10	10	74	8	7	6	32	315				Trap	97		
+69	Gunpowder	0	0	1	20	20	75	0	13	25	45	90					98		
+70	Small Barrel	0	0	0	10	10	76	0	14	4	8	80					99		
+71	Barrel Bomb	0	0	1	10	10	77	8	10	4	16	156					100		
+72	Bounce Bomb	0	0	1	5	5	78	8	10	6	18	150					101		
+73	Mega Bounce Bomb	0	0	3	5	5	79	72	10	6	68	680				Barrel Bomb	102		
+77	Spider Web	0	0	0	10	10	83	0	20	0	6	60					103		
+82	Rolled-up Dung	0	0	0	20	20	88	0	8	11	10	100					104		
+83	Dung	0	0	0	10	10	89	0	8	11	1	10					105		
+53	Baitbug	0	0	2	10	10	58	8	29	8	2	20				Bait	106		
+85	Arowana Bait	0	0	1	10	10	90	8	29	2	15	150				Bait	107		
+86	Gunpowderfish Bait	0	0	1	10	10	91	8	29	10	15	150				Bait	108		
+87	Goldenfish Bait	0	0	1	10	10	92	8	29	4	30	300				Bait	109		
+88	Boomerang	0	0	3	5	5	93	8	30	4	15	150					110		
+89	Binoculars	0	0	0	1	1	94	8	32	0	5	50					111		
+940	Blossom Fireworks	0	0	2	10	99	109	8	10	8	7	70					112		
+941	Twilight Fireworks	0	0	2	10	99	110	8	10	3	7	70					113		
+942	Harvest Fireworks	0	0	2	10	99	111	8	10	7	7	70					114		
+943	Star Fireworks	0	0	2	10	99	112	8	10	0	7	70					115		
+944	Appreciation Fireworks	0	0	2	10	99	113	8	10	4	7	70					116		
+956	Igni Sign	0	0	3	1	1	114	40	81	1	0	0					117		
+957	Hunter Runestone	0	0	3	1	1	115	40	82	7	0	0					118		
+1784	Bugtrappers: Fried Dragonfly	0	0	4	3	3	116	8	58	2	500	5000					119		
+1785	Protectors: Dried Goldenfish	0	0	4	3	3	117	8	58	4	500	5000					120		
+1786	Troupers: Horned Urchin	0	0	4	3	3	118	8	58	15	500	5000					121		
+1787	Plunderers: Steamed Cricket	0	0	4	3	3	119	8	58	19	500	5000					122		
+1788	Grimalkyne: Pot-au-magma	0	0	4	3	3	120	8	58	1	500	5000					123		
+1789	Boaboa: Boaboa Bread	0	0	4	3	3	121	8	58	3	500	5000					124		
+2678	Snowman	0	0	3	10	10	122	8	2	0	100	1000					125		
+137	Normal Ammo 1	3	1	3	1	1	182	8481	17	0	0	0							
+138	Normal Ammo 2	3	1	1	99	99	183	512	17	0	1	3							
+139	Normal Ammo 3	3	1	2	99	99	184	1024	17	0	2	5							
+140	Pierce Ammo 1	3	1	0	60	60	185	256	17	3	2	4							
+141	Pierce Ammo 2	3	1	1	60	60	186	512	17	3	2	8							
+142	Pierce Ammo 3	3	1	2	60	60	187	1024	17	3	3	12							
+143	Spread Ammo 1	3	1	0	80	80	188	256	17	13	1	4							
+144	Spread Ammo 2	3	1	1	70	70	189	512	17	13	2	8							
+145	Spread Ammo 3	3	1	2	60	60	190	1024	17	13	2	12							
+146	Sticky Ammo 1	3	1	0	9	9	191	256	17	7	2	12							
+147	Sticky Ammo 2	3	1	1	9	9	192	512	17	7	3	24							
+148	Sticky Ammo 3	3	1	2	9	9	193	1024	17	7	4	36							
+149	Cluster Bomb 1	3	1	1	3	3	194	256	17	14	6	30							
+150	Cluster Bomb 2	3	1	2	3	3	195	512	17	14	6	60							
+151	Cluster Bomb 3	3	1	3	3	3	196	1024	17	14	10	90							
+152	Flaming Ammo	3	1	1	60	60	197	0	17	25	2	20							
+153	Water Ammo	3	1	1	60	60	198	0	17	15	2	20							
+154	Thunder Ammo	3	1	1	60	60	199	0	17	4	2	20							
+155	Freeze Ammo	3	1	1	60	60	200	0	17	0	2	20							
+156	Dragon Ammo	3	1	2	3	3	201	0	17	14	10	100							
+157	Poison Ammo 1	3	1	1	12	12	202	256	17	5	2	15							
+158	Poison Ammo 2	3	1	2	12	12	203	512	17	5	2	30							
+159	Paralysis Ammo 1	3	1	1	12	12	204	256	17	9	3	15							
+160	Paralysis Ammo 2	3	1	2	8	8	205	512	17	9	5	30							
+161	Sleep Ammo 1	3	1	1	12	12	206	256	17	6	2	15							
+162	Sleep Ammo 2	3	1	2	8	8	207	512	17	6	3	30							
+163	Exhaust Ammo 1	3	1	1	12	12	208	256	17	15	3	15							
+164	Exhaust Ammo 2	3	1	2	8	8	209	512	17	15	5	30							
+165	Recover Ammo 1	3	1	1	12	12	210	256	17	2	2	8							
+166	Recover Ammo 2	3	1	2	12	12	211	512	17	2	2	15							
+167	Wyvern Ammo	3	1	2	5	5	212	0	17	11	6	62							
+168	Slicing Ammo	3	1	1	30	30	213	0	17	0	3	12							
+169	Tranq Ammo	3	1	2	8	8	214	0	17	8	4	45							
+170	Demon Ammo	3	1	3	5	5	215	0	17	1	9	1							
+171	Armor Ammo	3	1	3	5	5	216	0	17	7	7	1							
+173	Close-range Coating	3	4	3	1	1	218	8225	19	0	0	0							
+174	Empty Phial	0	0	0	99	99	219	0	18	0	1	5							
+175	Power Coating	3	4	1	50	50	220	0	19	1	2	20							
+176	Poison Coating	3	4	2	20	20	221	0	19	5	2	17							
+177	Paralysis Coating	3	4	2	20	20	222	0	19	9	3	26							
+178	Sleep Coating	3	4	2	20	20	223	0	19	6	2	17							
+180	Blast Coating	3	4	2	20	20	224	0	19	26	6	20							
+104	Whetfish Fin	0	0	1	10	10	5067	8	43	4	45	135							
+108	Gunpowderfish Scale	0	0	2	5	5	5071	0	43	10	150	300				Barrel Bomb			
+110	Burst Arowana Scale	0	0	1	5	5	5073	0	43	2	45	90	Gunpowder Level 2 x 20						
+111	Great Burst Arowana Scale	0	0	3	5	5	5074	64	43	2	45	90	Gunpowder Level 2 x 40						
+112	Bomb Arowana Scale	0	0	1	5	5	5075	0	43	5	135	270	Gunpowder Level 3 x 20						
+113	Great Bomb Arowana Scale	0	0	3	5	5	5076	64	43	5	135	270	Gunpowder Level 3 x 40						

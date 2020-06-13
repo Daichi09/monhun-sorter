@@ -1,0 +1,2736 @@
+0001	Potion
+0002	Mega Potion
+0003	Max Potion
+0004	Ancient Potion
+0005	Antidote
+0006	Herbal Medicine
+0007	Nulberry
+0008	Energy Drink
+0009	Ration
+000A	Rare Steak
+000B	Well-done Steak
+000C	Burnt Meat
+000D	Cool Drink
+000E	Nutrients
+000F	Mega Nutrients
+0010	Immunizer
+0011	Astera Jerky
+0012	Dash Juice
+0013	Mega Dash Juice
+0014	Might Seed
+0015	Demondrug
+0016	Mega Demondrug
+0017	Might Pill
+0018	Adamant Seed
+0019	Armorskin
+001A	Mega Armorskin
+001B	Adamant Pill
+001C	Lifepowder
+001D	Herbal Powder
+001E	Demon Powder
+001F	Hardshell Powder
+0020	Honey
+0021	Herb
+0022	Antidote Herb
+0023	Fire Herb
+0024	Flowfern
+0025	Snow Herb
+0026	Sleep Herb
+0027	Ivy
+0028	Smokenut
+0029	Dragonfell Berry
+002A	Blue Mushroom
+002B	Mandragora
+002C	Nitroshroom
+002D	Devil's Blight
+002E	Parashroom
+002F	Toadstool
+0030	Exciteshroom
+0031	Bitterbug
+0032	Flashbug
+0033	Godbug
+0034	Thunderbug
+0035	Baitbug
+0036	Kelbi Horn
+0037	Dash Extract
+0038	Nourishing Extract
+0039	Screamer Sac
+003A	Catalyst
+003B	Tranq Bomb
+003C	Flash Pod
+003D	Screamer Pod
+003E	Smoke Bomb
+003F	Poison Smoke Bomb
+0040	Farcaster
+0041	Raw Meat
+0042	Poisoned Meat
+0043	Tinged Meat
+0044	Drugged Meat
+0045	Gunpowder
+0046	Small Barrel
+0047	Barrel Bomb
+0048	Bounce Bomb
+0049	Mega Bounce Bomb
+004A	Large Barrel
+004B	Large Barrel Bomb
+004C	Mega Barrel Bomb
+004D	Spider Web
+004E	Net
+004F	Trap Tool
+0050	Pitfall Trap
+0051	Shock Trap
+0052	Rolled-up Dung
+0053	Dung
+0054	Dung Pod
+0055	Arowana Bait
+0056	Gunpowderfish Bait
+0057	Goldenfish Bait
+0058	Boomerang
+0059	Binoculars
+005A	Powercharm
+005B	Powertalon
+005C	Armorcharm
+005D	Armortalon
+005E	Needleberry
+005F	Blastnut
+0060	Dragonstrike Nut
+0061	Slashberry
+0062	Latchberry
+0063	Bomberry
+0064	Flamenut
+0065	Blazenut
+0066	Gunpowder Level 2
+0067	Gunpowder Level 3
+0068	Whetfish Fin
+0069	Whetfish Fin+
+006A	Sushifish Scale
+006B	Great Sushifish Scale
+006C	Gunpowderfish Scale
+006D	Great Gunpowderfish Scale
+006E	Burst Arowana Scale
+006F	Great Burst Arowana Scale
+0070	Bomb Arowana Scale
+0071	Great Bomb Arowana Scale
+0072	Whetstone
+0073	Capture Net
+0074	Fishing Rod
+0075	BBQ Spit
+0076	Ghillie Mantle
+0077	Temporal Mantle
+0078	Health Booster
+0079	Rocksteady Mantle
+007A	Challenger Mantle
+007B	Vitality Mantle
+007C	Fireproof Mantle
+007D	Waterproof Mantle
+007E	Iceproof Mantle
+007F	Thunderproof Mantle
+0080	Dragonproof Mantle
+0081	Cleanser Booster
+0082	Glider Mantle
+0083	Evasion Mantle
+0084	Impact Mantle
+0085	Apothecary Mantle
+0086	Immunity Mantle
+0087	Affinity Booster
+0088	Bandit Mantle
+0089	Normal Ammo 1
+008A	Normal Ammo 2
+008B	Normal Ammo 3
+008C	Pierce Ammo 1
+008D	Pierce Ammo 2
+008E	Pierce Ammo 3
+008F	Spread Ammo 1
+0090	Spread Ammo 2
+0091	Spread Ammo 3
+0092	Sticky Ammo 1
+0093	Sticky Ammo 2
+0094	Sticky Ammo 3
+0095	Cluster Bomb 1
+0096	Cluster Bomb 2
+0097	Cluster Bomb 3
+0098	Flaming Ammo
+0099	Water Ammo
+009A	Thunder Ammo
+009B	Freeze Ammo
+009C	Dragon Ammo
+009D	Poison Ammo 1
+009E	Poison Ammo 2
+009F	Paralysis Ammo 1
+00A0	Paralysis Ammo 2
+00A1	Sleep Ammo 1
+00A2	Sleep Ammo 2
+00A3	Exhaust Ammo 1
+00A4	Exhaust Ammo 2
+00A5	Recover Ammo 1
+00A6	Recover Ammo 2
+00A7	Wyvern Ammo
+00A8	Slicing Ammo
+00A9	Tranq Ammo
+00AA	Demon Ammo
+00AB	Armor Ammo
+00AC	(None)
+00AD	Close-range Coating
+00AE	Empty Phial
+00AF	Power Coating
+00B0	Poison Coating
+00B1	Paralysis Coating
+00B2	Sleep Coating
+00B3	Exhaust Coating
+00B4	Blast Coating
+00B5	First-aid Med
+00B6	First-aid Med+
+00B7	EZ Ration
+00B8	EZ Lifepowder
+00B9	EZ Max Potion
+00BA	EZ Large Barrel Bomb
+00BB	EZ Shock Trap
+00BC	EZ Pitfall Trap
+00BD	EZ Herbal Powder
+00BE	EZ Demon Powder
+00BF	EZ Hardshell Powder
+00C0	EZ Dung Pod
+00C1	EZ Flash Pod
+00C2	EZ Screamer Pod
+00C3	Throwing Knife
+00C4	Poison Knife
+00C5	Sleep Knife
+00C6	Paralysis Knife
+00C7	Tranq Knife
+00C8	EZ Farcaster
+00C9	EZ Tranq Bomb
+00CA	Ballista Ammo
+00CB	One-shot Binder
+00CC	Cannon Ammo
+00CD	Iron Ore
+00CE	Machalite Ore
+00CF	Dragonite Ore
+00D0	Carbalite Ore
+00D1	Fucium Ore
+00D2	Earth Crystal
+00D3	Coral Crystal
+00D4	Dragonvein Crystal
+00D5	Lightcrystal
+00D6	Novacrystal
+00D7	Firecell Stone
+00D8	Aquacore Ore
+00D9	Spiritcore Ore
+00DA	Dreamcore Ore
+00DB	Dragoncore Ore
+00DC	Armor Sphere
+00DD	Armor Sphere+
+00DE	Advanced Armor Sphere
+00DF	Hard Armor Sphere
+00E0	Heavy Armor Sphere
+00E1	Sturdy Bone
+00E2	Quality Bone
+00E3	Ancient Bone
+00E4	Boulder Bone
+00E5	Coral Bone
+00E6	Warped Bone
+00E7	Brutal Bone
+00E8	Dragonbone Relic
+00E9	Unknown Skull
+00EA	Great Hornfly
+00EB	Sinister Cloth
+00EC	Monster Bone S
+00ED	Monster Bone M
+00EE	Monster Bone L
+00EF	Monster Bone+
+00F0	Monster Keenbone
+00F1	Monster Hardbone
+00F2	Elder Dragon Bone
+00F3	Sharp Claw
+00F4	Piercing Claw
+00F5	Monster Fluid
+00F6	Monster Broth
+00F7	Poison Sac
+00F8	Toxin Sac
+00F9	Paralysis Sac
+00FA	Omniplegia Sac
+00FB	Sleep Sac
+00FC	Coma Sac
+00FD	Flame Sac
+00FE	Inferno Sac
+00FF	Aqua Sac
+0100	Torrent Sac
+0101	Frost Sac
+0102	Freezer Sac
+0103	Electro Sac
+0104	Thunder Sac
+0105	Bird Wyvern Gem
+0106	Wyvern Gem
+0107	Elder Dragon Blood
+0108	Mosswine Hide
+0109	Warm Pelt
+010A	High-quality Pelt
+010B	Vespoid Shell
+010C	Vespoid Carapace
+010D	Vespoid Wing
+010E	Vespoid Innerwing
+010F	Hornetaur Shell
+0110	Hornetaur Wing
+0111	Hornetaur Head
+0112	Hornetaur Carapace
+0113	Hornetaur Innerwing
+0114	Gajau Skin
+0115	Gajau Whisker
+0116	Gajau Scale
+0117	Grand Gajau Whisker
+0118	Wingdrake Hide
+0119	Wingdrake Hide+
+011A	Barnos Hide+
+011B	Barnos Talon
+011C	Kestodon Shell
+011D	Kestodon Scalp
+011E	Kestodon Carapace
+011F	Gastodon Carapace
+0120	Gastodon Horn
+0121	Jagras Scale
+0122	Jagras Hide
+0123	Jagras Scale+
+0124	Jagras Hide+
+0125	Shamos Scale
+0126	Shamos Hide
+0127	Shamos Scale+
+0128	Shamos Hide+
+0129	Girros Scale
+012A	Girros Hide
+012B	Girros Fang
+012C	Girros Scale+
+012D	Girros Hide+
+012E	Great Jagras Scale
+012F	Great Jagras Hide
+0130	Great Jagras Mane
+0131	Great Jagras Claw
+0132	Great Jagras Scale+
+0133	Great Jagras Hide+
+0134	Great Jagras Claw+
+0135	Kulu-Ya-Ku Scale
+0136	Kulu-Ya-Ku Hide
+0137	Kulu-Ya-Ku Plume
+0138	Kulu-Ya-Ku Beak
+0139	Kulu-Ya-Ku Scale+
+013A	Kulu-Ya-Ku Hide+
+013B	Kulu-Ya-Ku Plume+
+013C	Kulu-Ya-Ku Beak+
+013D	Pukei-Pukei Scale
+013E	Pukei-Pukei Shell
+013F	Pukei-Pukei Quill
+0140	Pukei-Pukei Sac
+0141	Pukei-Pukei Tail
+0142	Pukei-Pukei Scale+
+0143	Pukei-Pukei Carapace
+0144	Pukei-Pukei Wing
+0145	Pukei-Pukei Sac+
+0146	Barroth Shell
+0147	Barroth Ridge
+0148	Barroth Claw
+0149	Barroth Scalp
+014A	Barroth Tail
+014B	Fertile Mud
+014C	Barroth Carapace
+014D	Barroth Ridge+
+014E	Barroth Claw+
+014F	Jyuratodus Scale
+0150	Jyuratodus Shell
+0151	Jyuratodus Fang
+0152	Jyuratodus Fin
+0153	Jyuratodus Scale+
+0154	Jyuratodus Carapace
+0155	Jyuratodus Fang+
+0156	Jyuratodus Fin+
+0157	Tobi-Kadachi Scale
+0158	Tobi-Kadachi Pelt
+0159	Tobi-Kadachi Membrane
+015A	Tobi-Kadachi Claw
+015B	Tobi-Kadachi Electrode
+015C	Tobi-Kadachi Scale+
+015D	Tobi-Kadachi Pelt+
+015E	Tobi-Kadachi Claw+
+015F	Tobi-Kadachi Electrode+
+0160	Anjanath Scale
+0161	Anjanath Pelt
+0162	Anjanath Fang
+0163	Anjanath Nosebone
+0164	Anjanath Tail
+0165	Anjanath Plate
+0166	Anjanath Scale+
+0167	Anjanath Pelt+
+0168	Anjanath Fang+
+0169	Anjanath Nosebone+
+016A	Anjanath Gem
+016B	Rathian Scale
+016C	Rathian Shell
+016D	Rathian Webbing
+016E	Rathian Spike
+016F	Rathian Plate
+0170	Rathian Scale+
+0171	Rathian Carapace
+0172	Rathian Spike+
+0173	Rathian Ruby
+0174	Pink Rathian Scale+
+0175	Pink Rathian Carapace
+0176	Tzitzi-Ya-Ku Scale
+0177	Tzitzi-Ya-Ku Hide
+0178	Tzitzi-Ya-Ku Claw
+0179	Tzitzi-Ya-Ku Photophore
+017A	Tzitzi-Ya-Ku Scale+
+017B	Tzitzi-Ya-Ku Hide+
+017C	Tzitzi-Ya-Ku Claw+
+017D	Tzitzi-Ya-Ku Photophore+
+017E	Paolumu Pelt
+017F	Paolumu Scale
+0180	Paolumu Shell
+0181	Paolumu Webbing
+0182	Paolumu Pelt+
+0183	Paolumu Scale+
+0184	Paolumu Carapace+
+0185	Paolumu Wing
+0186	Great Girros Scale
+0187	Great Girros Hide
+0188	Great Girros Hood
+0189	Great Girros Fang
+018A	Great Girros Tail
+018B	Great Girros Scale+
+018C	Great Girros Hide+
+018D	Great Girros Hood+
+018E	Great Girros Fang+
+018F	Radobaan Scale
+0190	Radobaan Shell
+0191	Radobaan Oilshell
+0192	Wyvern Bonemass
+0193	Radobaan Jaw
+0194	Radobaan Marrow
+0195	Radobaan Scale+
+0196	Radobaan Carapace
+0197	Radobaan Medulla
+0198	Legiana Scale
+0199	Legiana Hide
+019A	Legiana Claw
+019B	Legiana Webbing
+019C	Legiana Tail Webbing
+019D	Legiana Plate
+019E	Legiana Scale+
+019F	Legiana Hide+
+01A0	Legiana Claw+
+01A1	Legiana Wing
+01A2	Legiana Gem
+01A3	Odogaron Scale
+01A4	Odogaron Sinew
+01A5	Odogaron Claw
+01A6	Odogaron Fang
+01A7	Odogaron Tail
+01A8	Odogaron Plate
+01A9	Odogaron Scale+
+01AA	Odogaron Sinew+
+01AB	Odogaron Claw+
+01AC	Odogaron Fang+
+01AD	Odogaron Gem
+01AE	Rathalos Scale
+01AF	Rathalos Shell
+01B0	Rathalos Webbing
+01B1	Rathalos Tail
+01B2	Rath Wingtalon
+01B3	Rathalos Marrow
+01B4	Rathalos Plate
+01B5	Rathalos Scale+
+01B6	Rathalos Carapace
+01B7	Rathalos Wing
+01B8	Rathalos Medulla
+01B9	Rathalos Ruby
+01BA	Azure Rathalos Scale+
+01BB	Azure Rathalos Carapace
+01BC	Azure Rathalos Tail
+01BD	Azure Rathalos Wing
+01BE	Diablos Shell
+01BF	Diablos Ridge
+01C0	Diablos Tailcase
+01C1	Diablos Fang
+01C2	Twisted Horn
+01C3	Diablos Marrow
+01C4	Diablos Carapace
+01C5	Diablos Ridge+
+01C6	Majestic Horn
+01C7	Blos Medulla
+01C8	Black Diablos Carapace
+01C9	Black Diablos Ridge+
+01CA	Black Spiral Horn+
+01CB	Kirin Hide
+01CC	Kirin Tail
+01CD	Kirin Mane
+01CE	Kirin Thunderhorn
+01CF	Kirin Hide+
+01D0	Kirin Thundertail
+01D1	Kirin Azure Horn
+01D2	Zorah Magdaros Inner Scale
+01D3	Zorah Magdaros Heat Scale
+01D4	Zorah Magdaros Carapace
+01D5	Zorah Magdaros Ridge
+01D6	Zorah Magdaros Pleura
+01D7	Zorah Magdaros Brace
+01D8	Zorah Magdaros Magma
+01D9	Zorah Magdaros Gem
+01DA	Dodogama Scale+
+01DB	Dodogama Hide+
+01DC	Dodogama Jaw
+01DD	Dodogama Talon
+01DE	Dodogama Tail
+01DF	Lavasioth Scale+
+01E0	Lavasioth Carapace
+01E1	Lavasioth Fang+
+01E2	Lavasioth Fin+
+01E3	Uragaan Scale+
+01E4	Uragaan Carapace
+01E5	Uragaan Jaw
+01E6	Uragaan Scute
+01E7	Uragaan Marrow
+01E8	Uragaan Ruby
+01E9	Lava Nugget
+01EA	Bazelgeuse Scale+
+01EB	Bazelgeuse Carapace
+01EC	Bazelgeuse Tail
+01ED	Bazelgeuse Fuse
+01EE	Bazelgeuse Talon
+01EF	Bazelgeuse Wing
+01F0	Bazelgeuse Gem
+01F1	Immortal Dragonscale
+01F2	Nergigante Carapace
+01F3	Nergigante Barbs
+01F4	Nergigante Tail
+01F5	Nergigante Horn+
+01F6	Nergigante Talon
+01F7	Nergigante Regrowth Plate
+01F8	Nergigante Gem
+01F9	Deceased Scale
+01FA	Vaal Hazak Carapace
+01FB	Vaal Hazak Membrane
+01FC	Vaal Hazak Tail
+01FD	Vaal Hazak Fang+
+01FE	Vaal Hazak Talon
+01FF	Vaal Hazak Wing
+0200	Vaal Hazak Miasmacryst
+0201	Vaal Hazak Gem
+0202	Teostra Carapace
+0203	Teostra Mane
+0204	Teostra Tail
+0205	Teostra Horn+
+0206	Fire Dragon Scale+
+0207	Teostra Claw+
+0208	Teostra Webbing
+0209	Teostra Powder
+020A	Teostra Gem
+020B	Daora Carapace
+020C	Daora Dragon Scale+
+020D	Daora Webbing
+020E	Daora Horn+
+020F	Daora Tail
+0210	Daora Claw+
+0211	Daora Gem
+0212	Xeno'jiiva Soulscale
+0213	Xeno'jiiva Shell
+0214	Xeno'jiiva Veil
+0215	Xeno'jiiva Tail
+0216	Xeno'jiiva Horn
+0217	Xeno'jiiva Claw
+0218	Xeno'jiiva Wing
+0219	Xeno'jiiva Crystal
+021A	Xeno'jiiva Gem
+021B	??? Scale
+021C	??? Shell
+021D	??? Membrane
+021E	??? Tail
+021F	??? Horn
+0220	??? Claw
+0221	??? Wing
+0222	??? Crystal
+0223	??? Gem
+0224	Mysterious Feystone
+0225	Glowing Feystone
+0226	Worn Feystone
+0227	Warped Feystone
+0228	Sullied Streamstone
+0229	Shining Streamstone
+022A	Streamstone Shard
+022B	Streamstone
+022C	Gleaming Streamstone
+022D	Warrior's Streamstone: Sword
+022E	Warrior's Streamstone: Blade
+022F	Warrior's Streamstone: Hammer
+0230	Warrior's Streamstone: Lance
+0231	Warrior's Streamstone: Axe
+0232	Warrior's Streamstone: Shaft
+0233	Warrior's Streamstone: Ranged
+0234	Hero's Streamstone: Sword
+0235	Hero's Streamstone: Blade
+0236	Hero's Streamstone: Hammer
+0237	Hero's Streamstone: Lance
+0238	Hero's Streamstone: Axe
+0239	Hero's Streamstone: Shaft
+023A	Hero's Streamstone: Ranged
+023B	Voucher
+023C	First Wyverian Print
+023D	Deluxe First Wyverian Print
+023E	Steel Wyverian Print
+023F	Silver Wyverian Print
+0240	Gold Wyverian Print
+0241	Commendation
+0242	High Commendation
+0243	Research Commission Ticket
+0244	Pukei Coin
+0245	Kulu Coin
+0246	Rathian Coin
+0247	Tzitzi Coin
+0248	Barroth Coin
+0249	Gama Coin
+024A	Rathalos Coin
+024B	Brute Coin
+024C	Flying Coin
+024D	Pinnacle Coin
+024E	Hunter King Coin
+024F	Ace Hunter Coin
+0250	Steel Egg
+0251	Silver Egg
+0252	Golden Egg
+0253	Chipped Scale
+0254	Large Scale
+0255	Beautiful Scale
+0256	Lustrous Scale
+0257	Glimmering Scale
+0258	Bhernastone
+0259	Dundormarin
+025A	Loc Lac Ore
+025B	Val Habar Quartz
+025C	Minegardenite
+025D	Golden Scale
+025E	Golden Scale+
+025F	Platinum Scale
+0260	Platinum Scale+
+0261	Gilded Scale
+0262	Gilded Scale+
+0263	White Liver
+0264	Wyvern Tear
+0265	Large Wyvern Tear
+0266	Dragon Treasure
+0267	Old Dragon Treasure
+0268	Sunbloom
+0269	Shinebloom
+026A	Goldbloom
+026B	Gourmet Shroomcap
+026C	Exquisite Shroomcap
+026D	Spirit Shroomcap
+026E	Bauble Cactus
+026F	Jewel Cactus
+0270	Kingly Cactus
+0271	Hardfruit
+0272	Rockfruit
+0273	Wildfruit
+0274	Super Abalone
+0275	Choice Abalone
+0276	Precious Abalone
+0277	Light Pearl
+0278	Deep Pearl
+0279	Innocent Pearl
+027A	Forgotten Fossil
+027B	Legendary Fossil
+027C	Mystical Fossil
+027D	Underground Fruit
+027E	Tainted Fruit
+027F	Elysian Fruit
+0280	Gaia Amber
+0281	Dragonvein Amber
+0282	Ancient Amber
+0283	Blue Beryl
+0284	True Beryl
+0285	Abyssal Beryl
+0286	Sunkissed Grass
+0287	Moonlit Mushroom
+0288	Dragonbloom
+0289	Divineapple
+028A	Violet Abalone
+028B	Platinum Pearl
+028C	Wicked Fossil
+028D	Heavenberry
+028E	Twilight Stone
+028F	Noahstone
+0290	Wyvern Egg
+0291	Herbivore Egg
+0292	Lump of Meat
+0293	Shepherd Hare
+0294	Pilot Hare
+0295	Woodland Pteryx
+0296	Forest Pteryx
+0297	Cobalt Flutterfly
+0298	Phantom Flutterfly
+0299	Climbing Joyperch
+029A	Forest Gekko
+029B	Wildspire Gekko
+029C	Gloom Gekko
+029D	Moonlight Gekko
+029E	Vaporonid
+029F	Scavantula
+02A0	Revolture
+02A1	Blissbill
+02A2	Omenfly
+02A3	Augurfly
+02A4	Scalebat
+02A5	Dung Beetle
+02A6	Bomb Beetle
+02A7	Pink Parexus
+02A8	Great Pink Parexus
+02A9	Burst Arowana
+02AA	Bomb Arowana
+02AB	Great Burst Arowana
+02AC	Great Bomb Arowana
+02AD	Elegant Coralbird
+02AE	Dapper Coralbird
+02AF	Andangler
+02B0	Downy Crake
+02B1	Bristly Crake
+02B2	Hopguppy
+02B3	Petricanths
+02B4	Paratoad
+02B5	Sleeptoad
+02B6	Nitrotoad
+02B7	Wiggler
+02B8	Wiggler Queen
+02B9	Vigorwasp
+02BA	Giant Vigorwasp
+02BB	Flying Meduso
+02BC	Carrier Ant
+02BD	Hercudrome
+02BE	Gold Hercudrome
+02BF	Prism Hercudrome
+02C0	Emperor Hopper
+02C1	Tyrant Hopper
+02C2	Flashfly
+02C3	Grandfather Mantagrell
+02C4	Iron Helmcrab
+02C5	Soldier Helmcrab
+02C6	Emerald Helmcrab
+02C7	Whetfish
+02C8	Great Whetfish
+02C9	Gastronome Tuna
+02CA	Great Gastronome Tuna
+02CB	King Marlin
+02CC	Great King Marlin
+02CD	Goldenfish
+02CE	Platinumfish
+02CF	Great Goldenfish
+02D0	Great Platinumfish
+02D1	Goldenfry
+02D2	Great Goldenfry
+02D3	Sushifish
+02D4	Great Sushifish
+02D5	Gunpowderfish
+02D6	Great Gunpowderfish
+02D7	Antidote Jewel 1
+02D8	Antipara Jewel 1
+02D9	Pep Jewel 1
+02DA	Steadfast Jewel 1
+02DB	Antiblast Jewel 1
+02DC	Suture Jewel 1
+02DD	Def Lock Jewel 1
+02DE	Earplug Jewel 3
+02DF	Wind Resist Jewel 2
+02E0	Footing Jewel 2
+02E1	Fertilizer Jewel 1
+02E2	Heat Resist Jewel 2
+02E3	Attack Jewel 1
+02E4	Defense Jewel 1
+02E5	Vitality Jewel 1
+02E6	Recovery Jewel 1
+02E7	Fire Res Jewel 1
+02E8	Water Res Jewel 1
+02E9	Ice Res Jewel 1
+02EA	Thunder Res Jewel 1
+02EB	Dragon Res Jewel 1
+02EC	Resistor Jewel 1
+02ED	Blaze Jewel 1
+02EE	Stream Jewel 1
+02EF	Frost Jewel 1
+02F0	Bolt Jewel 1
+02F1	Dragon Jewel 1
+02F2	Venom Jewel 1
+02F3	Paralyzer Jewel 1
+02F4	Sleep Jewel 1
+02F5	Blast Jewel 1
+02F6	Poisoncoat Jewel 3
+02F7	Paracoat Jewel 3
+02F8	Sleepcoat Jewel 3
+02F9	Blastcoat Jewel 3
+02FA	Powercoat Jewel 3
+02FB	Release Jewel 3
+02FC	Expert Jewel 1
+02FD	Critical Jewel 2
+02FE	Tenderizer Jewel 2
+02FF	Charger Jewel 2
+0300	Handicraft Jewel 3
+0301	Draw Jewel 2
+0302	Destroyer Jewel 2
+0303	KO Jewel 2
+0304	Drain Jewel 1
+0305	Rodeo Jewel 2
+0306	Flight Jewel 2
+0307	Throttle Jewel 2
+0308	Challenger Jewel 2
+0309	Flawless Jewel 2
+030A	Potential Jewel 2
+030B	Fortitude Jewel 1
+030C	Furor Jewel 2
+030D	Sonorous Jewel 1
+030E	Magazine Jewel 2
+030F	Trueshot Jewel 1
+0310	Artillery Jewel 1
+0311	Heavy Artillery Jewel 1
+0312	Sprinter Jewel 2
+0313	Physique Jewel 2
+0314	Flying Leap Jewel 1
+0315	Refresh Jewel 2
+0316	Hungerless Jewel 1
+0317	Evasion Jewel 2
+0318	Jumping Jewel 2
+0319	Ironwall Jewel 1
+031A	Sheath Jewel 1
+031B	Friendship Jewel 1
+031C	Enduring Jewel 1
+031D	Satiated Jewel 1
+031E	Gobbler Jewel 1
+031F	Grinder Jewel 1
+0320	Bomber Jewel 1
+0321	Fungiform Jewel 1
+0322	Angler Jewel 1
+0323	Chef Jewel 1
+0324	Transporter Jewel 1
+0325	Gathering Jewel 1
+0326	Honeybee Jewel 1
+0327	Carver Jewel 1
+0328	Protection Jewel 1
+0329	Meowster Jewel 1
+032A	Botany Jewel 1
+032B	Geology Jewel 1
+032C	Mighty Jewel 2
+032D	Stonethrower Jewel 1
+032E	Tip Toe Jewel 1
+032F	Brace Jewel 3
+0330	Scoutfly Jewel 1
+0331	Crouching Jewel 1
+0332	Longjump Jewel 1
+0333	Smoke Jewel 1
+0334	Mirewalker Jewel 1
+0335	Climber Jewel 1
+0336	Radiosity Jewel 1
+0337	Research Jewel 1
+0338	Specimen Jewel 1
+0339	Miasma Jewel 1
+033A	Scent Jewel 1
+033B	Slider Jewel 1
+033C	Intimidator Jewel 1
+033D	Hazmat Jewel 1
+033E	Mudshield Jewel 1
+033F	Element Resist Jewel 1
+0340	Slider Jewel 2
+0341	Medicine Jewel 1
+0342	Forceshot Jewel 3
+0343	Pierce Jewel 3
+0344	Spread Jewel 3
+0345	Enhancer Jewel 2
+0346	Crisis Jewel 1
+0347	Dragonseal Jewel 3
+0348	Discovery Jewel 2
+0349	Detector Jewel 1
+034A	Maintenance Jewel 1
+034B	Vigorwasp Delivery
+034C	Vigorwasp Station
+034D	Flashfly Cage
+034E	Thunderbug Cage
+034F	Shieldspire Taunt
+0350	Shieldspire Bash
+0351	Coral Cheerhorn
+0352	Coral Cheerbongo
+0353	Plunderblade
+0354	Palarang
+0355	Meowlotov Assault
+0356	Rath-of-Meow
+0357	Item 855
+0358	Item 856
+0359	Item 857
+035A	Item 858
+035B	Stone
+035C	Redpit
+035D	Brightmoss
+035E	Scatternut
+035F	Torch Pod
+0360	Bomb Pod
+0361	Thorn Pod
+0362	Piercing Pod
+0363	Dragon Pod
+0364	Crystalburst
+0365	Puddle Pod
+0366	Chillshroom
+0367	Tailraider Voucher
+0368	Emerald Shell
+0369	Gajalaka Sketch
+036A	Mighty Bow Jewel 2
+036B	Mind's Eye Jewel 2
+036C	Shield Jewel 2
+036D	Sharp Jewel 2
+036E	Elementless Jewel 2
+036F	Deviljho Scale
+0370	Deviljho Hide
+0371	Deviljho Tallfang
+0372	Deviljho Talon
+0373	Deviljho Scalp
+0374	Deviljho Tail
+0375	Deviljho Saliva
+0376	Deviljho Gem
+0377	Kulve Taroth Golden Scale
+0378	Kulve Taroth Golden Shell
+0379	Kulve Taroth Golden Nugget
+037A	Kulve Taroth Golden Spiralhorn
+037B	Kulve Taroth Golden Tailshell
+037C	Kulve Taroth Golden Glimstone
+037D	Golden Fragment
+037E	Golden Chunk
+037F	Lunastra Scale+
+0380	Lunastra Wing
+0381	Lunastra Gem
+0382	Lunastra Carapace
+0383	Lunastra Mane
+0384	Lunastra Tail
+0385	Lunastra Horn
+0386	Behemoth Mane
+0387	Behemoth Bone
+0388	Behemoth Great Horn
+0389	Behemoth Shearclaw
+038A	Behemoth Tail
+038B	Aetheryte Shard
+038C	Spring Blossom Ticket
+038D	Summer Twilight Ticket
+038E	Autumn Harvest Ticket
+038F	Winter Star Ticket
+0390	Appreciation Ticket
+0391	Spring Insect Field Guide
+0392	Summer Insect Field Guide
+0393	Vaal Hazak Ticket
+0394	Kirin Ticket
+0395	Teostra Ticket
+0396	Kushala Daora Ticket
+0397	Nergigante Ticket
+0398	Zorah Magdaros Ticket
+0399	Xeno'jiiva Ticket
+039A	Black Bandage
+039B	Black Crystal Ticket
+039C	Kulu-Ya-Ku Ticket
+039D	Wiggler Ticket
+039E	Item 926
+039F	Item 927
+03A0	Mega Man Ticket
+03A1	Item 929
+03A2	Item 930
+03A3	Item 931
+03A4	Azure Star Shard
+03A5	Azure Stargem
+03A6	Red Orb
+03A7	Master Craftsman's Blueprint
+03A8	Dissolved Weapon
+03A9	Melded Weapon
+03AA	Sublimated Weapon
+03AB	Bushi Ticket
+03AC	Blossom Fireworks
+03AD	Twilight Fireworks
+03AE	Harvest Fireworks
+03AF	Star Fireworks
+03B0	Appreciation Fireworks
+03B1	Gold Scalebat
+03B2	Gold Helmcrab
+03B3	Shiny Gold Helmcrab
+03B4	Copper Calappa
+03B5	Gold Calappa
+03B6	Tsuchinoko
+03B7	Cactuar Cutting
+03B8	Gold Chip Fragment
+03B9	Gold Nugget Fragment
+03BA	Blossom Ticket
+03BB	Senu's Feather
+03BC	Igni Sign
+03BD	Hunter Runestone
+03BE	Nekker
+03BF	Brigade Ticket
+03C0	Guild Cross Ticket
+03C1	Downy Crake Ticket
+03C2	Bristly Crake Ticket
+03C3	First Fleet Ticket
+03C4	Fifth Fleet Ticket
+03C5	Lunastra Ticket
+03C6	Transparent Stone
+03C7	Flowering Cactuar Cutting
+03C8	Cactuar
+03C9	Faux Ticket
+03CA	Faux Ticket II
+03CB	Faux Ticket III
+03CC	Beetle Ticket
+03CD	Item 973
+03CE	Item 974
+03CF	Glamour Prism
+03D0	Item 976
+03D1	Incandescent Weapon
+03D2	Kulve Taroth Emperor Nugget
+03D3	Leshen Claw
+03D4	Ancient Leshen Claw
+03D5	Leshen Skull
+03D6	Ancient Leshen Skull
+03D7	Cursed Bone
+03D8	Ancient Cursed Bone
+03D9	Leshen Antlers
+03DA	Ancient Leshen Antlers
+03DB	Leshen Resin
+03DC	Mutagen
+03DD	Nekker Card (Weapon)
+03DE	Nekker Card (Armor)
+03DF	Item 991
+03E0	Item 992
+03E1	Item 993
+03E2	Item 994
+03E3	Item 995
+03E4	Item 996
+03E5	Item 997
+03E6	Item 998
+03E7	Assassin's Hood
+03E8	Hot Drink
+03E9	Item 1001
+03EA	Item 1002
+03EB	Gourmet Voucher
+03EC	Surveyor Set
+03ED	Raider Ride
+03EE	Hot Pepper
+03EF	Gloamgrass Bud
+03F0	Dust of Life
+03F1	Crystalized Bone Shard
+03F2	Crystalized Monster Bone
+03F3	Crystalized Elder Dragon Bone
+03F4	Item 1012
+03F5	Item 1013
+03F6	Item 1014
+03F7	Item 1015
+03F8	Item 1016
+03F9	Item 1017
+03FA	Item 1018
+03FB	Item 1019
+03FC	Item 1020
+03FD	Item 1021
+03FE	Vigorwasp Revival
+03FF	Boombug Cage
+0400	Shieldspire Stooge
+0401	Coral Sonicgong
+0402	Mount & Plunder
+0403	Meowcano
+0404	zenny
+0405	Research Points
+0406	Eltalite Ore
+0407	Meldspar Ore
+0408	Spiritvein Crystal
+0409	Item 1033
+040A	Purecrystal
+040B	Item 1035
+040C	Bathycite Ore
+040D	Gracium
+040E	Phantomcore Ore
+040F	Shadowcore Ore
+0410	King Armor Sphere
+0411	True Armor Sphere
+0412	Thick Bone
+0413	Frozen Bone
+0414	Dragonbone Artifact
+0415	Item 1045
+0416	Item 1046
+0417	Item 1047
+0418	Ancient Fragment
+0419	Monster Toughbone
+041A	Monster Slogbone
+041B	Monster Solidbone
+041C	Item 1052
+041D	Large Elder Dragon Bone
+041E	Tough Claw
+041F	Monster Essence
+0420	Deadly Poison Sac
+0421	Ultraplegia Sac
+0422	Torpor Sac
+0423	Conflagrant Sac
+0424	Flood Sac
+0425	Cryo Sac
+0426	Lightning Sac
+0427	Fey Wyvern Gem
+0428	Large Wyvern Gem
+0429	Pure Dragon Blood
+042A	Large Elder Dragon Gem
+042B	Item 1067
+042C	Prized Pelt
+042D	Anteka Antler
+042E	Item 1070
+042F	Vespoid Razorwing
+0430	Item 1072
+0431	Hornetaur Razorwing
+0432	Item 1074
+0433	Gajau Thickhide
+0434	Steel Gajau Whisker
+0435	Wingdrake Finehide
+0436	Barnos Hardclaw
+0437	Item 1079
+0438	Cortos Hardclaw
+0439	Kestodon Husk
+043A	Item 1082
+043B	Gastodon Husk
+043C	Item 1084
+043D	Jagras Shard
+043E	Item 1086
+043F	Shamos Shard
+0440	Item 1088
+0441	Girros Shard
+0442	Item 1090
+0443	Wulg Thickfur
+0444	Item 1092
+0445	Great Jagras Shard
+0446	Great Jagras Thickhide
+0447	Great Jagras Hardclaw
+0448	Great Jagras Mane+
+0449	Kulu-Ya-Ku Shard
+044A	Kulu-Ya-Ku Thickhide
+044B	Large Kulu-Ya-Ku Plume
+044C	Large Kulu-Ya-Ku Beak
+044D	Pukei-Pukei Shard
+044E	Pukei-Pukei Cortex
+044F	Pukei-Pukei Fellwing
+0450	Large Pukei-Pukei Sac
+0451	Pukei-Pukei Lash
+0452	Coral Pukei-Pukei Shard
+0453	Coral Pukei-Pukei Cortex
+0454	Coral Pukei-Pukei Fellwing
+0455	Large Coral Pukei-Pukei Sac
+0456	Coral Pukei-Pukei Lash
+0457	Barroth Cortex
+0458	Barroth Chine
+0459	Barroth Hardclaw
+045A	Barroth Crown
+045B	Barroth Lash
+045C	Rich Mud
+045D	Jyuratodus Shard
+045E	Jyuratodus Cortex
+045F	Jyuratodus Hardfang
+0460	Jyuratodus Grandfin
+0461	Beotodus Shard
+0462	Beotodus Cortex
+0463	Beotodus Hardhorn
+0464	Beotodus Grandfin
+0465	Tobi-Kadachi Shard
+0466	Tobi-Kadachi Thickfur
+0467	Tobi-Kadachi Membrane+
+0468	Tobi-Kadachi Hardclaw
+0469	Tobi-Kadachi Cathode
+046A	Viper Tobi-Kadachi Shard
+046B	Viper Tobi-Kadachi Thickfur
+046C	Viper Tobi-Kadachi Membrane+
+046D	Viper Tobi-Kadachi Hardclaw
+046E	Viper Tobi-Kadachi Thorn
+046F	Banbaro Cortex
+0470	Banbaro Chine
+0471	Banbaro Great Horn
+0472	Banbaro Lash
+0473	Anjanath Shard
+0474	Anjanath Fur
+0475	Anjanath Hardfang
+0476	Heavy Anjanath Nosebone
+0477	Anjanath Lash
+0478	Anjanath Mantle
+0479	Fulgur Anjanath Shard
+047A	Fulgur Anjanath Thickfur
+047B	Fulgur Anjanath Hardfang
+047C	Heavy Fulgur Anjanath Nosebone
+047D	Fulgur Anjanath Lash
+047E	Fulgur Anjanath Mantle
+047F	Rathian Shard
+0480	Rathian Cortex
+0481	Rathian Weave
+0482	Rathian Surspike
+0483	Rathian Mantle
+0484	Pink Rathian Shard
+0485	Pink Rathian Cortex
+0486	Gold Rathian Shard
+0487	Gold Rathian Cortex
+0488	Gold Rathian Surspike
+0489	Tzitzi-Ya-Ku Shard
+048A	Tzitzi-Ya-Ku Thickhide
+048B	Tzitzi-Ya-Ku Hardclaw
+048C	Tzitzi-Ya-Ku Photomembrane
+048D	Paolumu Thickfur
+048E	Paolumu Shard
+048F	Paolumu Cortex
+0490	Paolumu Fellwing
+0491	Nightshade Paolumu Thickfur
+0492	Nightshade Paolumu Shard
+0493	Nightshade Paolumu Fellwing
+0494	Great Girros Shard
+0495	Great Girros Thickhide
+0496	Great Girros Hardhood
+0497	Great Girros Hardfang
+0498	Great Girros Lash
+0499	Radobaan Shard
+049A	Radobaan Cortex
+049B	Radobaan Oilshell+
+049C	Large Wyvern Bonemass
+049D	Legiana Shard
+049E	Legiana Thickhide
+049F	Legiana Hardclaw
+04A0	Legiana Fellwing
+04A1	Legiana Tail Webbing+
+04A2	Legiana Mantle
+04A3	Item 1187
+04A4	Rimed Hide
+04A5	Obsidian Icetalon
+04A6	Stark Wing
+04A7	Item 1191
+04A8	Item 1192
+04A9	Odogaron Shard
+04AA	Hard Odogaron Sinew
+04AB	Odogaron Hardclaw
+04AC	Odogaron Hardfang
+04AD	Odogaron Lash
+04AE	Odogaron Mantle
+04AF	Ebony Odogaron Shard
+04B0	Hard Ebony Odogaron Sinew
+04B1	Ebony Odogaron Hardclaw
+04B2	Ebony Odogaron Hardfang
+04B3	Ebony Odogaron Lash
+04B4	Ebony Odogaron Mantle
+04B5	Rathalos Shard
+04B6	Rathalos Cortex
+04B7	Rathalos Fellwing
+04B8	Rathalos Lash
+04B9	Rath Wingtalon+
+04BA	Rathalos Mantle
+04BB	Azure Rathalos Shard
+04BC	Azure Rathalos Cortex
+04BD	Azure Rathalos Lash
+04BE	Azure Rathalos Fellwing
+04BF	Silver Rathalos Shard
+04C0	Silver Rathalos Cortex
+04C1	Silver Rathalos Fellwing
+04C2	Silver Rathalos Lash
+04C3	Rath Gleam
+04C4	Diablos Cortex
+04C5	Diablos Chine
+04C6	Diablos Tailcase+
+04C7	Twisted Stouthorn
+04C8	Diablos Hardhorn
+04C9	Black Diablos Cortex
+04CA	Black Diablos Chine
+04CB	Blackcurl Stouthorn
+04CC	Dodogama Shard
+04CD	Dodogama Thickhide
+04CE	Dodogama Mandible
+04CF	Dodogama Hardclaw
+04D0	Dodogama Lash
+04D1	Lavasioth Shard
+04D2	Lavasioth Cortex
+04D3	Lavasioth Hardfang
+04D4	Lavasioth Grandfin
+04D5	Uragaan Shard
+04D6	Uragaan Cortex
+04D7	Uragaan Jaw+
+04D8	Uragaan Scute+
+04D9	Uragaan Pallium
+04DA	Barioth Cortex
+04DB	Barioth Thickfur
+04DC	Barioth Hardclaw
+04DD	Barioth Greatspike
+04DE	Barioth Lash
+04DF	Amber Hardfang
+04E0	Nargacuga Shard
+04E1	Nargacuga Blackfur+
+04E2	Nargacuga Lash
+04E3	Nargacuga Tailspear
+04E4	Nargacuga Cutwing+
+04E5	Nargacuga Hardfang
+04E6	Nargacuga Mantle
+04E7	Tigrex Shard
+04E8	Tigrex Cortex
+04E9	Tigrex Lash
+04EA	Tigrex Hardclaw
+04EB	Tigrex Hardfang
+04EC	Tigrex Mantle
+04ED	Brute Tigrex Shard
+04EE	Brute Tigrex Cortex
+04EF	Brute Tigrex Hardclaw
+04F0	Brute Tigrex Hardfang
+04F1	Glavenus Shard
+04F2	Glavenus Cortex
+04F3	Glavenus Hardfang
+04F4	Glavenus Hellshell
+04F5	Glavenus Tailedge
+04F6	Molten Bursa
+04F7	Glavenus Mantle
+04F8	Acidic Glavenus Shard
+04F9	Acidic Glavenus Cortex
+04FA	Acidic Glavenus Hardfang
+04FB	Acidic Glavenus Spineshell
+04FC	Acidic Glavenus Tailedge
+04FD	Honed Acidcryst
+04FE	Item 1278
+04FF	Brachydios Cortex
+0500	Fine Brachydios Ebonshell
+0501	Brachydios Crown
+0502	Glowing Slime
+0503	Brachydios Pounder+
+0504	Brachydios Lash
+0505	Brachydios Pallium
+0506	Item 1286
+0507	Item 1287
+0508	Item 1288
+0509	Item 1289
+050A	Garuga Shard
+050B	Garuga Cortex
+050C	Garuga Auricle
+050D	Fancy Beak
+050E	Garuga Fellwing
+050F	Garuga Lash
+0510	Garuga Silverpelt
+0511	Zinogre Cortex
+0512	Zinogre Electrofur+
+0513	Zinogre Hardhorn
+0514	Zinogre Hardclaw
+0515	Zinogre Lash
+0516	Zinogre Deathly Shocker
+0517	Fulgurbug
+0518	Zinogre Skymerald
+0519	Item 1305
+051A	Item 1306
+051B	Item 1307
+051C	Item 1308
+051D	Item 1309
+051E	Item 1310
+051F	Item 1311
+0520	Item 1312
+0521	Bazelgeuse Shard
+0522	Flickering Silvershell
+0523	Bazelgeuse Flail
+0524	Distilled Blast Fluid
+0525	Bazelgeuse Hardclaw
+0526	Scorching Silverwing
+0527	Bazelgeuse Mantle
+0528	Deviljho Shard
+0529	Deviljho Blackpiel
+052A	Item 1322
+052B	Vile Fang
+052C	Deviljho Ripper
+052D	Deviljho Flail
+052E	Black Blood
+052F	Deviljho Crook
+0530	Rajang Wildpelt
+0531	Rajang Hardfang
+0532	Rajang Hardclaw
+0533	Rajang Tail
+0534	Gold Rajang Pelt+
+0535	Item 1333
+0536	Rajang Hardhorn
+0537	Item 1335
+0538	Item 1336
+0539	Kirin Finehide
+053A	Kirin Thundertail+
+053B	Kirin Silvermane
+053C	Kirin Azure Horn+
+053D	Immortal Shard
+053E	Nergigante Cortex
+053F	Nergigante Flail
+0540	Annihilating Greathorn
+0541	Nergigante Hardclaw
+0542	Eternal Regrowth Plate
+0543	Crystal Shard
+0544	Velkhana Cortex
+0545	Velkhana Fellwing
+0546	Velkhana Crownhorn
+0547	Velkhana Lash
+0548	Velkhana Hardclaw
+0549	Velkhana Crystal
+054A	Teostra Cortex
+054B	Teostra Mane+
+054C	Teostra Lash
+054D	Teostra Hardhorn
+054E	Hellfire Shard
+054F	Fire Dragon Hardclaw
+0550	Teostra Fellwing
+0551	Lunastra Cortex
+0552	Lunastra Mane+
+0553	Lunastra Lash
+0554	Lunastra Hardhorn
+0555	Lunastra Shard
+0556	Lunastra Fellwing
+0557	Daora Cortex
+0558	Daora Shard
+0559	Daora Fellwing
+055A	Daora Hardhorn
+055B	Daora Lash
+055C	Daora Hardclaw
+055D	Deceased Shard
+055E	Vaal Hazak Cortex
+055F	Deathweaver Membrane
+0560	Vaal Hazak Flail
+0561	Shadowpierce Fang
+0562	Vaal Hazak Hardclaw
+0563	Vaal Hazak Fellwing
+0564	Namielle Finehide
+0565	Item 1381
+0566	Namielle Fellwing
+0567	Namielle Whisker
+0568	Namielle Lash
+0569	Namielle Hardclaw
+056A	Item 1386
+056B	Item 1387
+056C	Item 1388
+056D	Item 1389
+056E	Item 1390
+056F	Item 1391
+0570	Item 1392
+0571	Item 1393
+0572	Item 1394
+0573	Shara Ishvalda Tenderscale
+0574	Shara Ishvalda Boulderplate
+0575	Item 1397
+0576	Shara Ishvalda Tenderplate
+0577	Shara Ishvalda Petalstone
+0578	Shara Ishvalda Tenderclaw
+0579	Shara Ishvalda Gem
+057A	Item 1402
+057B	Item 1403
+057C	Item 1404
+057D	Item 1405
+057E	Item 1406
+057F	Item 1407
+0580	Item 1408
+0581	Ancient Feystone
+0582	Carved Feystone
+0583	Sealed Feystone
+0584	Decayed Scale
+0585	Luminous Scale
+0586	Old Dragon Treasure
+0587	Item 1415
+0588	Item 1416
+0589	??? Shard
+058A	??? Boulderplate
+058B	??? Cortex
+058C	??? Rock
+058D	??? Hardclaw
+058E	Large ??? Gem
+058F	Item 1423
+0590	Item 1424
+0591	Item 1425
+0592	Item 1426
+0593	Item 1427
+0594	Item 1428
+0595	Item 1429
+0596	Item 1430
+0597	Celestial Wyverian Print
+0598	Conqueror's Seal
+0599	Research Commission Ticket+
+059A	Banbaro Coin
+059B	Paolumu Coin
+059C	Nargacuga Coin
+059D	Glavenus Coin
+059E	Odogaron Coin
+059F	Zinogre Coin
+05A0	Black Belt Coin
+05A1	Hero King Coin
+05A2	Tigrex Coin
+05A3	Giant Scale
+05A4	Magnificent Scale
+05A5	Boaboa Ticket
+05A6	Young Butterbur
+05A7	Exquisite Butterbur
+05A8	Millennium Butterbur
+05A9	Icebloom
+05AA	Moonlight Icebloom
+05AB	Snowpeak Icebloom
+05AC	Snow White
+05AD	Petalcryst
+05AE	EZ Dust of Life
+05AF	Pearlspring Macaque
+05B0	Goldspring Macaque
+05B1	Item 1457
+05B2	Crowned Prawn
+05B3	Moon Slug
+05B4	Duffel Penguin
+05B5	Arrowhead Gekko
+05B6	Blue Diva
+05B7	Sealord's Crestfish
+05B8	Glass Parexus
+05B9	Wintermoon Nettle
+05BA	Moly
+05BB	Mossy Moly
+05BC	Rocky Moly
+05BD	Fluffy Moly
+05BE	Spiny Moly
+05BF	Item 1471
+05C0	Item 1472
+05C1	Great Glass Parexus
+05C2	Item 1474
+05C3	Item 1475
+05C4	Item 1476
+05C5	Item 1477
+05C6	Dragonvein Shard
+05C7	Dragonvein Coal
+05C8	Dragonvein Coal Chunk
+05C9	Cloth Curtain (Small)
+05CA	Pelt Curtain (Small)
+05CB	Elegant Curtain (Small)
+05CC	Item 1484
+05CD	Cloth Curtain (Large)
+05CE	Pelt Curtain (Large)
+05CF	Elegant Curtain (Large)
+05D0	Item 1488
+05D1	Familiar Sofa
+05D2	Item 1490
+05D3	Luxury Sofa
+05D4	Elegant Sofa
+05D5	Item 1493
+05D6	Rustic Bed
+05D7	Familiar Bed
+05D8	Luxury Bed
+05D9	Item 1497
+05DA	Familiar Table
+05DB	Luxury Table
+05DC	Elegant Table
+05DD	Item 1501
+05DE	Rustic Chairs
+05DF	Familiar Chairs
+05E0	Luxury Chairs
+05E1	Elegant Chairs
+05E2	Item 1506
+05E3	Carnivore Carnival
+05E4	Party Platter
+05E5	Tropical Lunch
+05E6	Sumptuous Stew
+05E7	Hunter's Brunch
+05E8	Familiar Chest
+05E9	Luxury Chest
+05EA	Item 1514
+05EB	Hoarfrost Reach Plant 1
+05EC	Hoarfrost Reach Plant 2
+05ED	Item 1517
+05EE	Hoarfrost Reach Plant 3
+05EF	Ancient Forest Plant 1
+05F0	Item 1520
+05F1	Ancient Forest Plant 4
+05F2	Ancient Forest Plant 5
+05F3	Ancient Forest Plant 3
+05F4	Wildspire Wastes Plant 2
+05F5	Item 1525
+05F6	Wildspire Wastes Plant 1
+05F7	Ancient Forest Plant 2
+05F8	Item 1528
+05F9	Item 1529
+05FA	Simple Urn
+05FB	Grimalkyne Doll
+05FC	Gajalaka Doll
+05FD	Boaboa Doll
+05FE	Felyne Doll
+05FF	Grimalkyne Doll (Black)
+0600	Grimalkyne Doll (Navy)
+0601	Grimalkyne Doll (Blue)
+0602	Poogie Doll (Memorial Stripes)
+0603	Poogie Doll (Emperor's Duds)
+0604	Item 1540
+0605	Item 1541
+0606	Item 1542
+0607	Item 1543
+0608	Item 1544
+0609	Simple Urn Set
+060A	Burlap Sacks
+060B	Bottled Spirit
+060C	Assorted Bottle Set
+060D	Crafting Tools
+060E	Dyed Silk Rolls
+060F	Ornamental Horn
+0610	Display Fossil
+0611	Simple Pottery
+0612	Pottery Set
+0613	Item 1555
+0614	Ornamental Plate (Large)
+0615	Basket of Ore
+0616	Item 1558
+0617	First Aid Kit
+0618	Item 1560
+0619	Potted Plant
+061A	Research Tomes
+061B	Scholarly Tomes
+061C	Refined Vase (Large)
+061D	Potted Cactus
+061E	Colorful Planting
+061F	Basket of Mushrooms
+0620	Item 1568
+0621	Vegetable Display
+0622	Fierce Gajalaka Mask
+0623	Grimacing Gajalaka Mask
+0624	Surprised Gajalaka Mask
+0625	Amber
+0626	Item 1574
+0627	Item 1575
+0628	Seashell
+0629	Symbol of Assistance
+062A	Symbol of Contribution
+062B	Symbol of Dedication
+062C	Symbol of Valor
+062D	Goldenfry Mobile
+062E	Whetfish Mobile
+062F	Marlin Mobile
+0630	Item 1584
+0631	Item 1585
+0632	Item 1586
+0633	Barrel Ornament
+0634	Catch-of-the-Day Ornament
+0635	Fish Ornament
+0636	Marlin Ornament
+0637	Elegant Flag
+0638	Nargacuga Painting
+0639	Research Base Painting
+063A	Handler Portrait
+063B	Elegant Ornamental Plate
+063C	Gajalaka Painting 1
+063D	Boaboa Painting 1
+063E	Grimalkyne Painting 1
+063F	Poogie Painting
+0640	Palico Portraits
+0641	Item 1601
+0642	Item 1602
+0643	Item 1603
+0644	Item 1604
+0645	Familiar Desk
+0646	Luxury Desk
+0647	Item 1607
+0648	Familiar Shelves
+0649	Intellectual Shelves
+064A	Cluttered Shelves
+064B	Luxury Shelves
+064C	Elegant Shelves
+064D	Cute Shelves
+064E	Music Player
+064F	Familiar Lights
+0650	Sturdy Lights
+0651	Luxury Lights
+0652	Cute Lights
+0653	Simple Lights
+0654	Item 1620
+0655	Item 1621
+0656	Item 1622
+0657	Familiar Rack
+0658	Luxury Rack
+0659	Item 1625
+065A	Simple Wall Shelf (Large)
+065B	Luxury Wall Shelf (Large)
+065C	Cute Wall Shelf (Large)
+065D	Simple Wall Shelf (Small)
+065E	Luxury Wall Shelf (Small)
+065F	Item 1631
+0660	Item 1632
+0661	Item 1633
+0662	Zorah Magdaros Painting
+0663	Cloth Wall-Hanging
+0664	Fur Wall-Hanging
+0665	Ship's Wheel Wall-Hanging
+0666	Item 1638
+0667	Gajalaka Painting 2
+0668	Boaboa Painting 2
+0669	Grimalkyne Painting 2
+066A	Ancient Forest Painting
+066B	Wildspire Wastes Painting
+066C	Coral Highlands Painting
+066D	Rotten Vale Painting
+066E	Elder's Recess Painting
+066F	Hoarfrost Reach Painting
+0670	Books and Documents
+0671	Healthy Refreshments
+0672	Stuffed Doll Crafting Set
+0673	Maps
+0674	Crafting Set
+0675	Baking Set
+0676	Tool Set
+0677	Familiar Rugs (1F)
+0678	Luxury Rugs (1F)
+0679	Cute Rugs (1F)
+067A	Fur Rugs (1F)
+067B	Familiar Rugs (2F)
+067C	Luxury Rugs (2F)
+067D	Cute Rugs (2F)
+067E	Fur Rugs (2F)
+067F	Lantern
+0680	Item 1664
+0681	Item 1665
+0682	Candle
+0683	Candlestick
+0684	Songbird Lamp
+0685	Jellyfish Lamp
+0686	Angler Fish Lamp
+0687	Item 1671
+0688	Item 1672
+0689	Item 1673
+068A	Botanical Pattern
+068B	Elegant Pattern
+068C	Patchwork
+068D	Patchwork (Brown)
+068E	Patchwork (Gray)
+068F	Check (Red)
+0690	Check (White)
+0691	Check (Blue)
+0692	Trap and Beast (Brown)
+0693	Trap and Beast (Navy)
+0694	Trap and Beast (Aqua)
+0695	Trap and Beast (Yellow)
+0696	Wild Nature (Vibrant)
+0697	Wild Nature (Red)
+0698	Wild Nature (Green)
+0699	Nature Check (Green)
+069A	Nature Check (Blue)
+069B	Traditional Pattern (Black)
+069C	Traditional Pattern (Vibrant)
+069D	Traditional Pattern (Brown)
+069E	Traditional Pattern (Pink)
+069F	Traditional Pattern (Aqua)
+06A0	Traditional Pattern (Warm)
+06A1	Traditional Pattern (Red)
+06A2	Hunter Pattern (Brown)
+06A3	Hunter Pattern (White)
+06A4	Hunter Pattern (Gold)
+06A5	Hunter Pattern (Red)
+06A6	Item 1702
+06A7	Item 1703
+06A8	Item 1704
+06A9	Check (Vibrant)
+06AA	Item 1706
+06AB	Palico Print (Pink)
+06AC	Palico Print (Brown)
+06AD	Item 1709
+06AE	Item 1710
+06AF	Item 1711
+06B0	Item 1712
+06B1	Item 1713
+06B2	Item 1714
+06B3	Item 1715
+06B4	Item 1716
+06B5	Item 1717
+06B6	Item 1718
+06B7	Item 1719
+06B8	Item 1720
+06B9	Light Wood
+06BA	Dark Wood
+06BB	Light Iron
+06BC	Dark Iron
+06BD	Silver
+06BE	Item 1726
+06BF	Stone
+06C0	Home Sweet Home
+06C1	Traditional Room
+06C2	Item 1730
+06C3	Item 1731
+06C4	Item 1732
+06C5	Item 1733
+06C6	Wooden Floor
+06C7	Chic Wooden Floor
+06C8	Simple Stone Floor
+06C9	Item 1737
+06CA	Item 1738
+06CB	Marble Tile Floor
+06CC	Item 1740
+06CD	Item 1741
+06CE	Item 1742
+06CF	Chic Stone Floor
+06D0	Wooden Wall
+06D1	Chic Wooden Wall
+06D2	Simple Stone Wall
+06D3	Item 1747
+06D4	Item 1748
+06D5	Simple Stucco Wall
+06D6	Item 1750
+06D7	Item 1751
+06D8	Item 1752
+06D9	Item 1753
+06DA	Elegant Stucco Wall
+06DB	Wooden Floor (White)
+06DC	Wooden Floor (Green)
+06DD	Wooden Floor (Blue)
+06DE	Wooden Floor (Red)
+06DF	Wooden Floor (Yellow)
+06E0	Light Wooden Floor
+06E1	Wooden Wall (White)
+06E2	Wooden Wall (Green)
+06E3	Wooden Wall (Blue)
+06E4	Wooden Wall (Red)
+06E5	Wooden Wall (Yellow)
+06E6	Stucco Wall (Orange)
+06E7	Stucco Wall (Green)
+06E8	Stucco Wall (Red)
+06E9	Stucco Wall (Blue)
+06EA	Traditional Bench
+06EB	Traditional Bed
+06EC	Traditional Table
+06ED	Traditional Meal
+06EE	Traditional Chest
+06EF	Traditional Rugs (1F)
+06F0	Traditional Rugs (2F)
+06F1	Traditional Wall
+06F2	Traditional Floor
+06F3	Traditional Lights
+06F4	Item 1780
+06F5	Dragonrazer Fuel Cell
+06F6	Tailraider Signal
+06F7	Item 1783
+06F8	Bugtrappers: Fried Dragonfly
+06F9	Protectors: Dried Goldenfish
+06FA	Troupers: Horned Urchin
+06FB	Plunderers: Steamed Cricket
+06FC	Grimalkyne: Pot-au-magma
+06FD	Boaboa: Boaboa Bread
+06FE	Thermae Ticket
+06FF	Scratched Shell
+0700	Stonebill
+0701	Rime Beetle
+0702	Hot Spring Stone
+0703	Decayed Crystal
+0704	Forest Crystal
+0705	Prosperous Crystal
+0706	Guiding Forest Crystal
+0707	Cracked Crystal
+0708	Wasteland Crystal
+0709	Serene Crystal
+070A	Guiding Wasteland Crystal
+070B	Pale Crystal
+070C	Coral Crystal
+070D	Deepsea Crystal
+070E	Guiding Coral Crystal
+070F	Distorted Crystal
+0710	Effluvial Crystal
+0711	Twilight Crystal
+0712	Guiding Effluvial Crystal
+0713	Melted Crystal
+0714	Magma Crystal
+0715	Hellfire Crystal
+0716	Guiding Magma Crystal
+0717	Frozen Crystal DNI
+0718	Rime Crystal DNI
+0719	Daybreak Crystal DNI
+071A	Guiding Rime Crystal DNI
+071B	Mossy Greatbone
+071C	Woodland Greatbone
+071D	Slumbering Greatbone
+071E	Guiding Forest Dragonbone
+071F	Weathered Cragbone
+0720	Wasteland Cragbone
+0721	Tempered Cragbone
+0722	Guiding Wasteland Dragonbone
+0723	Vivid Crimsonbone
+0724	Coral Crimsonbone
+0725	Vibrant Crimsonbone
+0726	Guiding Coral Dragonbone
+0727	Malformed Frenzybone
+0728	Effluvial Frenzybone
+0729	Afflicted Frenzybone
+072A	Guiding Rotted Dragonbone
+072B	Simmering Wildbone
+072C	Volcanic Wildbone
+072D	Dragonscorched Wildbone
+072E	Guiding Volcanic Dragonbone
+072F	Hoary Icebone DNI
+0730	Tundra Icebone DNI
+0731	Evefrost Icebone DNI
+0732	Guiding Tundra Dragonbone DNI
+0733	Fierce Dragonvein Bone
+0734	Heavy Dragonvein Bone
+0735	Dragonvein Solidbone
+0736	Elder Dragonvein Bone
+0737	Item 1847
+0738	Spiritvein Slogbone
+0739	Spiritvein Solidbone
+073A	Elder Spiritvein Bone
+073B	Spiritvein Gem Shard
+073C	Spiritvein Gem
+073D	Great Spiritvein Gem
+073E	Rugged Mane
+073F	Item 1855
+0740	Colorful Plume
+0741	Item 1857
+0742	Fragrant Poison Sac
+0743	Tempered Poison Sac
+0744	Hydrated Sac
+0745	Tempered Torrent Sac
+0746	Muddy Crown
+0747	Tempered Crown
+0748	Item 1864
+0749	Item 1865
+074A	Item 1866
+074B	Item 1867
+074C	Blinding Cathode
+074D	Tempered Cathode
+074E	Item 1870
+074F	Item 1871
+0750	Ancient Great Horn
+0751	Tempered Great Horn
+0752	Flickering Flamepelt
+0753	Tempered Flamepelt
+0754	Crackling Thunderpelt
+0755	Tempered Thunderpelt
+0756	Queen's Scale
+0757	Tempered Green Scale
+0758	Pink Scale
+0759	Tempered Pink Scale
+075A	Dazzling Photophore+
+075B	Item 1883
+075C	Rubbery Shell
+075D	Tempered Rubbery Shell
+075E	Obsidian Fur
+075F	Tempered Hide
+0760	Night Hood
+0761	Item 1889
+0762	Inkstained Oilshell+
+0763	Tempered Oilshell+
+0764	Heavy Jaw
+0765	Item 1893
+0766	Incandescent Magmafin
+0767	Tempered Magmafin
+0768	Metallic Scute
+0769	Tempered Scute
+076A	Item 1898
+076B	Item 1899
+076C	Sinister Silverpelt
+076D	Tempered Silverpelt
+076E	Smooth Icehide
+076F	Tempered Icehide
+0770	Item 1904
+0771	Item 1905
+0772	Fatal Rendclaw
+0773	Tempered Rendclaw
+0774	Soulrender Talon
+0775	Tempered Talon
+0776	King's Scale
+0777	Tempered Red Scale
+0778	Azure Scale
+0779	Tempered Azure Scale
+077A	Twisted Bravehorn
+077B	Twisted Temperhorn
+077C	Blackcurl Tyranthorn
+077D	Blackcurl Temperhorn
+077E	Assassin Cutwing
+077F	Tempered Cutwing
+0780	Smoldering Tailedge
+0781	Tempered Tailedge
+0782	Honed Tailblade
+0783	Tempered Tailblade
+0784	Glossy Ebonshell
+0785	Tempered Ebonshell
+0786	Strongman's Jaw
+0787	Tempered Jaw
+0788	Shuddering Darkjaw
+0789	Tempered Ebonjaw
+078A	Charged Deathly Shocker
+078B	Tempered Shocker
+078C	Crimson Blastscale
+078D	Tempered Blastscale
+078E	Bloodstained Ebonhide
+078F	Spattered Hide
+0790	Solemn Azure Horn
+0791	Tempered Azure Horn
+0792	Hellfire Mane
+0793	Tempered Crimson Mane
+0794	Stormcall Steelwing
+0795	Tempered Steelwing
+0796	Azure Mane
+0797	Tempered Azure Mane
+0798	Aurora Crownhorn
+0799	Tempered Crownhorn
+079A	Twilight Fang
+079B	Tempered Twilight Fang
+079C	Enchanting Finehide
+079D	Tempered Trancehide
+079E	Extinction Greathorn
+079F	Item 1951
+07A0	Moonlight Scale
+07A1	Tempered Gold Scale
+07A2	Scorching Scale
+07A3	Tempered Silver Scale
+07A4	Item 1956
+07A5	Item 1957
+07A6	Bloodthirsty Glimmerpelt
+07A7	Tempered Glimmerpelt
+07A8	Item 1960
+07A9	Item 1961
+07AA	Item 1962
+07AB	Item 1963
+07AC	Special Scope
+07AD	Sublime First Wyverian Print
+07AE	Steam Ticket
+07AF	Giant Dragonvein Coal
+07B0	Phoenix Jewel 3
+07B1	Guardian Jewel 2
+07B2	Cooling Jewel 2
+07B3	Fire Res Jewel+ 4
+07B4	Water Res Jewel+ 4
+07B5	Ice Res Jewel+ 4
+07B6	Thunder Res Jewel+ 4
+07B7	Dragon Res Jewel+ 4
+07B8	Blaze Jewel+ 4
+07B9	Stream Jewel+ 4
+07BA	Frost Jewel+ 4
+07BB	Bolt Jewel+ 4
+07BC	Dragon Jewel+ 4
+07BD	Venom Jewel+ 4
+07BE	Paralyzer Jewel+ 4
+07BF	Sleep Jewel+ 4
+07C0	Blast Jewel+ 4
+07C1	Hard Fire Res Jewel 4
+07C2	Hard Water Res Jewel 4
+07C3	Hard Ice Res Jewel 4
+07C4	Hard Thunder Res Jewel 4
+07C5	Hard Dragon Res Jewel 4
+07C6	Antidote Jewel+ 4
+07C7	Antipara Jewel+ 4
+07C8	Pep Jewel+ 4
+07C9	Steadfast Jewel+ 4
+07CA	Antiblast Jewel+ 4
+07CB	Suture Jewel+ 4
+07CC	Def Lock Jewel+ 4
+07CD	Miasma Jewel+ 4
+07CE	Hungerless Jewel+ 4
+07CF	Recovery Jewel+ 4
+07D0	Tip Toe Jewel+ 4
+07D1	Intimidator Jewel+ 4
+07D2	Meowster Jewel+ 4
+07D3	Hard Tip Toe Jewel 4
+07D4	Hard Intimidator Jewel 4
+07D5	Hard Meowster Jewel 4
+07D6	Trueshot Jewel+ 4
+07D7	Heavy Artillery Jewel+ 4
+07D8	Botany Jewel+ 4
+07D9	Geology Jewel+ 4
+07DA	Survival Jewel+ 4
+07DB	Mirewalker Jewel+ 4
+07DC	Specimen Jewel+ 4
+07DD	Sonorous Jewel+ 4
+07DE	Hard Botany Jewel+ 4
+07DF	Hard Geology Jewel 4
+07E0	Hard Survival Jewel 4
+07E1	Hard Specimen Jewel 4
+07E2	Enduring Jewel+ 4
+07E3	Defense Jewel+ 4
+07E4	Hard Enduring Jewel 4
+07E5	Hard Defense Jewel 4
+07E6	Artillery Jewel+ 4
+07E7	Earplug Jewel+ 4
+07E8	Wind Resist Jewel+ 4
+07E9	Attack Jewel+ 4
+07EA	Expert Jewel+ 4
+07EB	Handicraft Jewel+ 4
+07EC	Throttle Jewel+ 4
+07ED	Challenger Jewel+ 4
+07EE	Potential Jewel+ 4
+07EF	Furor Jewel+ 4
+07F0	Physique Jewel+ 4
+07F1	Evasion Jewel+ 4
+07F2	Ironwall Jewel+ 4
+07F3	Friendship Jewel+ 4
+07F4	Drain/Physique Jewel 4
+07F5	Fortitude/Physique Jewel 4
+07F6	Crisis/Physique Jewel 4
+07F7	Ironwall/Physique Jewel 4
+07F8	Friendship/Physique Jewel 4
+07F9	Satiated/Physique Jewel 4
+07FA	Stonethrower/Physique Jewel 4
+07FB	Resistor/Physique Jewel 4
+07FC	Flight/Physique Jewel 4
+07FD	Sprinter/Physique Jewel 4
+07FE	Refresh/Physique Jewel 4
+07FF	Jumping/Physique Jewel 4
+0800	Sheath/Physique Jewel 4
+0801	Gobbler/Physique Jewel 4
+0802	Grinder/Physique Jewel 4
+0803	Bomber/Physique Jewel 4
+0804	Fungiform/Physique Jewel 4
+0805	Slider/Physique Jewel 4
+0806	Guardian/Physique Jewel 4
+0807	Drain/Evasion Jewel 4
+0808	Fortitude/Evasion Jewel 4
+0809	Crisis/Evasion Jewel 4
+080A	Ironwall/Evasion Jewel 4
+080B	Friendship/Evasion Jewel 4
+080C	Satiated/Evasion Jewel 4
+080D	Stonethrower/Evasion Jewel 4
+080E	Resistor/Evasion Jewel 4
+080F	Flight/Evasion Jewel 4
+0810	Sprinter/Evasion Jewel 4
+0811	Refresh/Evasion Jewel 4
+0812	Jumping/Evasion Jewel 4
+0813	Sheath/Evasion Jewel 4
+0814	Gobbler/Evasion Jewel 4
+0815	Grinder/Evasion Jewel 4
+0816	Bomber/Evasion Jewel 4
+0817	Fungiform/Evasion Jewel 4
+0818	Slider/Evasion Jewel 4
+0819	Guardian/Evasion Jewel 4
+081A	Drain/Attack Jewel 4
+081B	Fortitude/Attack Jewel 4
+081C	Crisis/Attack Jewel 4
+081D	Ironwall/Attack Jewel 4
+081E	Friendship/Attack Jewel 4
+081F	Satiated/Attack Jewel 4
+0820	Stonethrower/Attack Jewel 4
+0821	Resistor/Attack Jewel 4
+0822	Flight/Attack Jewel 4
+0823	Sprinter/Attack Jewel 4
+0824	Refresh/Attack Jewel 4
+0825	Jumping/Attack Jewel 4
+0826	Sheath/Attack Jewel 4
+0827	Gobbler/Attack Jewel 4
+0828	Grinder/Attack Jewel 4
+0829	Bomber/Attack Jewel 4
+082A	Fungiform/Attack Jewel 4
+082B	Slider/Attack Jewel 4
+082C	Guardian/Attack Jewel 4
+082D	Drain/Expert Jewel 4
+082E	Fortitude/Expert Jewel 4
+082F	Crisis/Expert Jewel 4
+0830	Ironwall/Expert Jewel 4
+0831	Friendship/Expert Jewel 4
+0832	Satiated/Expert Jewel 4
+0833	Stonethrower/Expert Jewel 4
+0834	Resistor/Expert Jewel 4
+0835	Flight/Expert Jewel 4
+0836	Sprinter/Expert Jewel 4
+0837	Refresh/Expert Jewel 4
+0838	Jumping/Expert Jewel 4
+0839	Sheath/Expert Jewel 4
+083A	Gobbler/Expert Jewel 4
+083B	Grinder/Expert Jewel 4
+083C	Bomber/Expert Jewel 4
+083D	Fungiform/Expert Jewel 4
+083E	Slider/Expert Jewel 4
+083F	Guardian/Expert Jewel 4
+0840	Drain/Release Jewel 4
+0841	Fortitude/Release Jewel 4
+0842	Crisis/Release Jewel 4
+0843	Ironwall/Release Jewel 4
+0844	Friendship/Release Jewel 4
+0845	Satiated/Release Jewel 4
+0846	Stonethrower/Release Jewel 4
+0847	Resistor/Release Jewel 4
+0848	Flight/Release Jewel 4
+0849	Sprinter/Release Jewel 4
+084A	Refresh/Release Jewel 4
+084B	Jumping/Release Jewel 4
+084C	Sheath/Release Jewel 4
+084D	Gobbler/Release Jewel 4
+084E	Grinder/Release Jewel 4
+084F	Bomber/Release Jewel 4
+0850	Fungiform/Release Jewel 4
+0851	Slider/Release Jewel 4
+0852	Guardian/Release Jewel 4
+0853	Drain/Handicraft Jewel 4
+0854	Fortitude/Handicraft Jewel 4
+0855	Crisis/Handicraft Jewel 4
+0856	Ironwall/Handicraft Jewel 4
+0857	Friendship/Handicraft Jewel 4
+0858	Satiated/Handicraft Jewel 4
+0859	Stonethrower/Handicraft Jewel 4
+085A	Resistor/Handicraft Jewel 4
+085B	Flight/Handicraft Jewel 4
+085C	Sprinter/Handicraft Jewel 4
+085D	Refresh/Handicraft Jewel 4
+085E	Jumping/Handicraft Jewel 4
+085F	Sheath/Handicraft Jewel 4
+0860	Gobbler/Handicraft Jewel 4
+0861	Grinder/Handicraft Jewel 4
+0862	Bomber/Handicraft Jewel 4
+0863	Fungiform/Handicraft Jewel 4
+0864	Slider/Handicraft Jewel 4
+0865	Guardian/Handicraft Jewel 4
+0866	Footing/Protection Jewel 4
+0867	Charger/Protection Jewel 4
+0868	Enhancer/Protection Jewel 4
+0869	Destroyer/Protection Jewel 4
+086A	KO/Protection Jewel 4
+086B	Potential/Protection Jewel 4
+086C	Wind Resist/Protection Jewel 4
+086D	Draw/Protection Jewel 4
+086E	Throttle/Protection Jewel 4
+086F	Challenger/Protection Jewel 4
+0870	Flawless/Protection Jewel 4
+0871	Furor/Protection Jewel 4
+0872	Mighty/Protection Jewel 4
+0873	Brace/Protection Jewel 4
+0874	Phoenix/Protection Jewel 4
+0875	Earplug/Protection Jewel 4
+0876	Critical/Protection Jewel 4
+0877	Tenderizer/Protection Jewel 4
+0878	Handicraft/Protection Jewel 4
+0879	Release/Protection Jewel 4
+087A	Footing/Medicine Jewel 4
+087B	Charger/Medicine Jewel 4
+087C	Enhancer/Medicine Jewel 4
+087D	Destroyer/Medicine Jewel 4
+087E	KO/Medicine Jewel 4
+087F	Potential/Medicine Jewel 4
+0880	Wind Resist/Medicine Jewel 4
+0881	Draw/Medicine Jewel 4
+0882	Throttle/Medicine Jewel 4
+0883	Challenger/Medicine Jewel 4
+0884	Flawless/Medicine Jewel 4
+0885	Furor/Medicine Jewel 4
+0886	Mighty/Medicine Jewel 4
+0887	Brace/Medicine Jewel 4
+0888	Phoenix/Medicine Jewel 4
+0889	Earplug/Medicine Jewel 4
+088A	Critical/Medicine Jewel 4
+088B	Tenderizer/Medicine Jewel 4
+088C	Handicraft/Medicine Jewel 4
+088D	Release/Medicine Jewel 4
+088E	Footing/Vitality Jewel 4
+088F	Charger/Vitality Jewel 4
+0890	Enhancer/Vitality Jewel 4
+0891	Destroyer/Vitality Jewel 4
+0892	KO/Vitality Jewel 4
+0893	Potential/Vitality Jewel 4
+0894	Wind Resist/Vitality Jewel 4
+0895	Draw/Vitality Jewel 4
+0896	Throttle/Vitality Jewel 4
+0897	Challenger/Vitality Jewel 4
+0898	Flawless/Vitality Jewel 4
+0899	Furor/Vitality Jewel 4
+089A	Mighty/Vitality Jewel 4
+089B	Brace/Vitality Jewel 4
+089C	Phoenix/Vitality Jewel 4
+089D	Earplug/Vitality Jewel 4
+089E	Critical/Vitality Jewel 4
+089F	Tenderizer/Vitality Jewel 4
+08A0	Handicraft/Vitality Jewel 4
+08A1	Release/Vitality Jewel 4
+08A2	Footing/Maintenance Jewel 4
+08A3	Charger/Maintenance Jewel 4
+08A4	Enhancer/Maintenance Jewel 4
+08A5	Destroyer/Maintenance Jewel 4
+08A6	KO/Maintenance Jewel 4
+08A7	Potential/Maintenance Jewel 4
+08A8	Wind Resist/Maintenance Jewel 4
+08A9	Draw/Maintenance Jewel 4
+08AA	Throttle/Maintenance Jewel 4
+08AB	Challenger/Maintenance Jewel 4
+08AC	Flawless/Maintenance Jewel 4
+08AD	Furor/Maintenance Jewel 4
+08AE	Mighty/Maintenance Jewel 4
+08AF	Brace/Maintenance Jewel 4
+08B0	Phoenix/Maintenance Jewel 4
+08B1	Earplug/Maintenance Jewel 4
+08B2	Critical/Maintenance Jewel 4
+08B3	Tenderizer/Maintenance Jewel 4
+08B4	Handicraft/Maintenance Jewel 4
+08B5	Release/Maintenance Jewel 4
+08B6	Footing/Physique Jewel 4
+08B7	Charger/Physique Jewel 4
+08B8	Enhancer/Physique Jewel 4
+08B9	Destroyer/Physique Jewel 4
+08BA	KO/Physique Jewel 4
+08BB	Potential/Physique Jewel 4
+08BC	Wind Resist/Physique Jewel 4
+08BD	Draw/Physique Jewel 4
+08BE	Throttle/Physique Jewel 4
+08BF	Challenger/Physique Jewel 4
+08C0	Flawless/Physique Jewel 4
+08C1	Furor/Physique Jewel 4
+08C2	Mighty/Physique Jewel 4
+08C3	Brace/Physique Jewel 4
+08C4	Phoenix/Physique Jewel 4
+08C5	Earplug/Physique Jewel 4
+08C6	Critical/Physique Jewel 4
+08C7	Tenderizer/Physique Jewel 4
+08C8	Handicraft/Physique Jewel 4
+08C9	Release/Physique Jewel 4
+08CA	Footing/Evasion Jewel 4
+08CB	Charger/Evasion Jewel 4
+08CC	Enhancer/Evasion Jewel 4
+08CD	Destroyer/Evasion Jewel 4
+08CE	KO/Evasion Jewel 4
+08CF	Potential/Evasion Jewel 4
+08D0	Wind Resist/Evasion Jewel 4
+08D1	Draw/Evasion Jewel 4
+08D2	Throttle/Evasion Jewel 4
+08D3	Challenger/Evasion Jewel 4
+08D4	Flawless/Evasion Jewel 4
+08D5	Furor/Evasion Jewel 4
+08D6	Mighty/Evasion Jewel 4
+08D7	Brace/Evasion Jewel 4
+08D8	Phoenix/Evasion Jewel 4
+08D9	Earplug/Evasion Jewel 4
+08DA	Critical/Evasion Jewel 4
+08DB	Tenderizer/Evasion Jewel 4
+08DC	Handicraft/Evasion Jewel 4
+08DD	Release/Evasion Jewel 4
+08DE	Survival Jewel 1
+08DF	Item 2271
+08E0	Warming Jewel 2
+08E1	Item 2273
+08E2	Item 2274
+08E3	Item 2275
+08E4	Item 2276
+08E5	Item 2277
+08E6	Item 2278
+08E7	Item 2279
+08E8	Item 2280
+08E9	Item 2281
+08EA	Item 2282
+08EB	Item 2283
+08EC	Item 2284
+08ED	Item 2285
+08EE	Item 2286
+08EF	Item 2287
+08F0	Item 2288
+08F1	Item 2289
+08F2	Item 2290
+08F3	Item 2291
+08F4	Item 2292
+08F5	Item 2293
+08F6	Item 2294
+08F7	Item 2295
+08F8	Item 2296
+08F9	Item 2297
+08FA	Item 2298
+08FB	Item 2299
+08FC	Item 2300
+08FD	Item 2301
+08FE	Item 2302
+08FF	Item 2303
+0900	Item 2304
+0901	Item 2305
+0902	Item 2306
+0903	Item 2307
+0904	Item 2308
+0905	Item 2309
+0906	Item 2310
+0907	Item 2311
+0908	Item 2312
+0909	Item 2313
+090A	Item 2314
+090B	Item 2315
+090C	Item 2316
+090D	Item 2317
+090E	Item 2318
+090F	Item 2319
+0910	Item 2320
+0911	Item 2321
+0912	Item 2322
+0913	Item 2323
+0914	Item 2324
+0915	Item 2325
+0916	Item 2326
+0917	Item 2327
+0918	Item 2328
+0919	Item 2329
+091A	Item 2330
+091B	Item 2331
+091C	Item 2332
+091D	Item 2333
+091E	Item 2334
+091F	Item 2335
+0920	Item 2336
+0921	Item 2337
+0922	Item 2338
+0923	Item 2339
+0924	Item 2340
+0925	Item 2341
+0926	Item 2342
+0927	Item 2343
+0928	Item 2344
+0929	Item 2345
+092A	Item 2346
+092B	Item 2347
+092C	Item 2348
+092D	Item 2349
+092E	Item 2350
+092F	Item 2351
+0930	Item 2352
+0931	Item 2353
+0932	Item 2354
+0933	Item 2355
+0934	Item 2356
+0935	Item 2357
+0936	Item 2358
+0937	Item 2359
+0938	Item 2360
+0939	Item 2361
+093A	Item 2362
+093B	Item 2363
+093C	Item 2364
+093D	Item 2365
+093E	Item 2366
+093F	Item 2367
+0940	Item 2368
+0941	Item 2369
+0942	Item 2370
+0943	Item 2371
+0944	Item 2372
+0945	Item 2373
+0946	Item 2374
+0947	Item 2375
+0948	Item 2376
+0949	Item 2377
+094A	Item 2378
+094B	Item 2379
+094C	Item 2380
+094D	Item 2381
+094E	Item 2382
+094F	Item 2383
+0950	Item 2384
+0951	Item 2385
+0952	Item 2386
+0953	Item 2387
+0954	Item 2388
+0955	Item 2389
+0956	Item 2390
+0957	Item 2391
+0958	Item 2392
+0959	Item 2393
+095A	Item 2394
+095B	Item 2395
+095C	Item 2396
+095D	Item 2397
+095E	Item 2398
+095F	Item 2399
+0960	Item 2400
+0961	Item 2401
+0962	Item 2402
+0963	Item 2403
+0964	Item 2404
+0965	Item 2405
+0966	Item 2406
+0967	Item 2407
+0968	Item 2408
+0969	Item 2409
+096A	Item 2410
+096B	Item 2411
+096C	Item 2412
+096D	Plum Flower Pot
+096E	Decorative Tree
+096F	Item 2415
+0970	Item 2416
+0971	Item 2417
+0972	Item 2418
+0973	Item 2419
+0974	Item 2420
+0975	Item 2421
+0976	Item 2422
+0977	Item 2423
+0978	Item 2424
+0979	Item 2425
+097A	Item 2426
+097B	Item 2427
+097C	Item 2428
+097D	Item 2429
+097E	Felyne Balloon
+097F	Grimalkyne Balloon (White)
+0980	Grimalkyne Balloon (Black)
+0981	Gajalaka Balloon
+0982	Item 2434
+0983	Item 2435
+0984	Item 2436
+0985	Item 2437
+0986	Item 2438
+0987	Item 2439
+0988	Item 2440
+0989	Item 2441
+098A	Item 2442
+098B	Item 2443
+098C	Item 2444
+098D	Item 2445
+098E	Item 2446
+098F	Item 2447
+0990	Item 2448
+0991	Item 2449
+0992	Item 2450
+0993	Item 2451
+0994	Item 2452
+0995	Item 2453
+0996	Item 2454
+0997	Joyful Lanterns
+0998	Sky Lantern Lights
+0999	Item 2457
+099A	Item 2458
+099B	Item 2459
+099C	Item 2460
+099D	Item 2461
+099E	Item 2462
+099F	Item 2463
+09A0	Item 2464
+09A1	Item 2465
+09A2	Item 2466
+09A3	Item 2467
+09A4	Item 2468
+09A5	Item 2469
+09A6	Item 2470
+09A7	Item 2471
+09A8	Item 2472
+09A9	Item 2473
+09AA	Paper Lantern
+09AB	Item 2475
+09AC	Round Paper Lanterns
+09AD	Item 2477
+09AE	Item 2478
+09AF	Item 2479
+09B0	Item 2480
+09B1	Item 2481
+09B2	Item 2482
+09B3	Item 2483
+09B4	Item 2484
+09B5	Item 2485
+09B6	Item 2486
+09B7	Item 2487
+09B8	Item 2488
+09B9	Item 2489
+09BA	Item 2490
+09BB	Item 2491
+09BC	Item 2492
+09BD	Item 2493
+09BE	Item 2494
+09BF	Item 2495
+09C0	Item 2496
+09C1	Item 2497
+09C2	Item 2498
+09C3	Item 2499
+09C4	Item 2500
+09C5	Item 2501
+09C6	Item 2502
+09C7	Item 2503
+09C8	Item 2504
+09C9	Item 2505
+09CA	Item 2506
+09CB	Item 2507
+09CC	Item 2508
+09CD	Item 2509
+09CE	Item 2510
+09CF	Item 2511
+09D0	Item 2512
+09D1	Item 2513
+09D2	Item 2514
+09D3	Item 2515
+09D4	Item 2516
+09D5	Item 2517
+09D6	Item 2518
+09D7	Item 2519
+09D8	Item 2520
+09D9	Item 2521
+09DA	Item 2522
+09DB	Item 2523
+09DC	Item 2524
+09DD	Item 2525
+09DE	Item 2526
+09DF	Item 2527
+09E0	Item 2528
+09E1	Item 2529
+09E2	Joyful Platter
+09E3	Luxury Platter
+09E4	Item 2532
+09E5	Item 2533
+09E6	Item 2534
+09E7	Item 2535
+09E8	Item 2536
+09E9	Item 2537
+09EA	Item 2538
+09EB	Item 2539
+09EC	Item 2540
+09ED	Item 2541
+09EE	Item 2542
+09EF	Item 2543
+09F0	Item 2544
+09F1	Item 2545
+09F2	Item 2546
+09F3	Item 2547
+09F4	Item 2548
+09F5	Item 2549
+09F6	Item 2550
+09F7	Item 2551
+09F8	Item 2552
+09F9	Item 2553
+09FA	Item 2554
+09FB	Item 2555
+09FC	Item 2556
+09FD	Item 2557
+09FE	Item 2558
+09FF	Item 2559
+0A00	Item 2560
+0A01	Item 2561
+0A02	Item 2562
+0A03	Item 2563
+0A04	Item 2564
+0A05	Grand Appreciation Figure
+0A06	Item 2566
+0A07	Item 2567
+0A08	(Room)Green Herb
+0A09	(Room) Red Herb
+0A0A	(Room) Blue Herb
+0A0B	First Aid Sprays
+0A0C	Mr. Raccoon
+0A0D	Creepy Rugs (1F)
+0A0E	Creepy Rugs (2F)
+0A0F	S.T.A.R.S. Plaque Set 1
+0A10	S.T.A.R.S. Plaque Set 2
+0A11	Typewriter
+0A12	(Room) Item Box
+0A13	Item 2579
+0A14	Item 2580
+0A15	Joyful Snowman
+0A16	Appreciative Snowman
+0A17	Item 2583
+0A18	Item 2584
+0A19	Item 2585
+0A1A	Sky Lanterns
+0A1B	Item 2587
+0A1C	Item 2588
+0A1D	Item 2589
+0A1E	Item 2590
+0A1F	Item 2591
+0A20	Item 2592
+0A21	Item 2593
+0A22	Item 2594
+0A23	Masterpiece Sketches
+0A24	Item 2596
+0A25	Item 2597
+0A26	Item 2598
+0A27	Item 2599
+0A28	Item 2600
+0A29	Item 2601
+0A2A	Item 2602
+0A2B	Item 2603
+0A2C	Item 2604
+0A2D	Item 2605
+0A2E	Item 2606
+0A2F	Item 2607
+0A30	Item 2608
+0A31	Item 2609
+0A32	Item 2610
+0A33	Item 2611
+0A34	Item 2612
+0A35	Item 2613
+0A36	Item 2614
+0A37	Item 2615
+0A38	Item 2616
+0A39	Item 2617
+0A3A	Item 2618
+0A3B	Item 2619
+0A3C	Item 2620
+0A3D	Item 2621
+0A3E	Item 2622
+0A3F	Item 2623
+0A40	Item 2624
+0A41	Item 2625
+0A42	Item 2626
+0A43	Item 2627
+0A44	Item 2628
+0A45	Item 2629
+0A46	Item 2630
+0A47	Item 2631
+0A48	Item 2632
+0A49	Item 2633
+0A4A	Item 2634
+0A4B	Item 2635
+0A4C	Item 2636
+0A4D	Item 2637
+0A4E	Item 2638
+0A4F	Item 2639
+0A50	Item 2640
+0A51	Item 2641
+0A52	Item 2642
+0A53	Item 2643
+0A54	Item 2644
+0A55	Item 2645
+0A56	Item 2646
+0A57	Item 2647
+0A58	Item 2648
+0A59	Item 2649
+0A5A	Item 2650
+0A5B	Item 2651
+0A5C	Item 2652
+0A5D	Item 2653
+0A5E	Item 2654
+0A5F	Item 2655
+0A60	Item 2656
+0A61	Item 2657
+0A62	Item 2658
+0A63	Item 2659
+0A64	Item 2660
+0A65	Item 2661
+0A66	Item 2662
+0A67	Item 2663
+0A68	Item 2664
+0A69	Item 2665
+0A6A	Item 2666
+0A6B	Item 2667
+0A6C	Item 2668
+0A6D	Item 2669
+0A6E	Item 2670
+0A6F	Item 2671
+0A70	Item 2672
+0A71	Item 2673
+0A72	Item 2674
+0A73	Freezer Ticket
+0A74	Pearlspring Ticket
+0A75	Snowball
+0A76	Snowman
+0A77	Item 2679
+0A78	Item 2680
+0A79	Item 2681
+0A7A	Item 2682
+0A7B	Green Herb
+0A7C	Red Herb
+0A7D	Mixed Herb (G+R)
+0A7E	Steel Melding Ticket
+0A7F	Silver Melding Ticket
+0A80	Steel Melding Feystone
+0A81	Silver Melding Feystone
+0A82	Gold Melding Ticket
+0A83	Astral Melding Ticket
+0A84	Gold Melding Feystone
+0A85	Astral Melding Feystone
+0A86	Item 2694
+0A87	Item 2695
+0A88	Item 2696
+0A89	Item 2697
+0A8A	Item 2698
+0A8B	Item 2699
+0A8C	Item 2700
+0A8D	Item 2701
+0A8E	Item 2702
+0A8F	Item 2703
+0A90	Black Eagle Blueprint
+0A91	Wiggler Pot
+0A92	S.T.A.R.S. Badge
+0A93	Item 2707
+0A94	Item 2708
+0A95	Item 2709
+0A96	Joyful Ticket
+0A97	Penguin Ticket
+0A98	Sealed Dragon Cloth
+0A99	Buff Ticket
+0A9A	Pickaxe Ticket
+0A9B	Gratitude Ticket
+0A9C	Wyverian Ticket
+0A9D	Fest Ticket
+0A9E	Meaty Canteen Ticket
+0A9F	Item 2719
+0AA0	Item 2720
+0AA1	Item 2721
+0AA2	Item 2722
+0AA3	Item 2723
+0AA4	Item 2724
+0AA5	Item 2725
+0AA6	Item 2726
+0AA7	Item 2727
+0AA8	Item 2728
+0AA9	Item 2729
+0AAA	Unity Symbol
+0AAB	Item 2731
+0AAC	Item 2732
+0AAD	Large Beast Tear
+0AAE	Magnificent Pelt
+0AAF	VIP Joyful Ticket
+0AB0	VIP Gratitude Ticket

@@ -1,0 +1,2 @@
+ID	Name	NewSellPrice	NewBuyPrice
+1	Potion	50000	
